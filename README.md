@@ -17,15 +17,15 @@ Ultimately, **the goal is to build a machine learning model (using linear regres
 ## Data Source
 There are **4 datasets** that will be used to build this model and create visualizations:
 
-1. The first, and primary, dataset comes from HealthData.gov. This file contains 2014 data for the state of California of population demographics of residents living within a quarter-mile of an alcohol establishment: ```population_pct_within_qrt_mile_alcohol.csv```
+1. The first, and primary, dataset comes from [HealthData.gov](https://healthdata.gov/dataset/population-percentage-within-quarter-mile-alcohol-outlets). This file contains 2014 data for the state of California of population demographics of residents living within a quarter-mile of an alcohol establishment: ```population_pct_within_qrt_mile_alcohol.csv```
  
-1. This dataset, from the Bureau of Economic Analysis, provides county-level data regarding persistent poverty, metro vs non-metro status, low education status, retirement destination, as well as other descriptive, binary factors. ```2015CountyTypologyCodes.csv```
+1. This dataset, from the [Economic Research Service](https://www.ers.usda.gov/data-products/county-typology-codes/), provides county-level data regarding persistent poverty, metro vs non-metro status, low education status, retirement destination, as well as other descriptive, binary factors. ```2015CountyTypologyCodes.csv```
  
-1. The file ```personal_income_2014.csv``` also comes from Bureau of Economic Analysis details the per capita personal income by county.
+1. The file ```personal_income_2014.csv``` also comes from [Bureau of Economic Analysis](https://apps.bea.gov/regional/histdata/) details the per capita personal income by county.
 
-2. The final dataset from the U.S. Bureau of Labor Statistics , ```UnemploymentReport_CA.csv```, trends out unemployment rate from 2011 through 2019 by County detailing the median house price for that county.
+2. The final dataset from the [U.S. Bureau of Labor Statistics](https://www.bls.gov/lau/) , ```UnemploymentReport_CA.csv```, trends out unemployment rate from 2011 through 2019 by County detailing the median house price for that county.
 
-All of these datasets have been filtered to focus on California and its County-level information targeting 2014.
+All of these datasets have been filtered to focus on **California and its County-level information targeting 2014**.
 
 ### Database
 First step in creating this predictive model and getting the answers we are looking for, is to import the raw data into **SQL** and create a schema outlining the table structure and interconnections.
@@ -83,9 +83,9 @@ Our input factors (y) will include:
 Our **target or (X)** will be the percentage of the population, ```pct_of_total```, within a quarter mile of the alcohol outlet.
 
 ## Dashboard Presentation
-The dashboard will be built using Tableau. Visualizations to tell this story will include graphs, heat maps and interactive predictions.
+The dashboard will be built using **Tableau**. Visualizations to tell this story will include graphs, heat maps, and prediction results.
 
-Be on the look out for our findings in the coming weeks!
+*Be on the look out for our findings in the coming weeks!*
 
 ## GitHub and Communication Protocol
 
