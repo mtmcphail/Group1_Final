@@ -14,7 +14,7 @@ By layering additional demographic and socioeconomic data including income level
 
 Ultimately, **the goal is to build a machine learning model (using linear regression) that can predict the likelihood of a liquor outlet is within a quarter-mile of a person's home based on their race/ethnicity and location.**
 
-##Data Source
+## Data Source
 There are **4 datasets** that will be used to build this model and create visualizations:
 
 1. The first, and primary, dataset comes from HealthData.gov. This file contains 2014 data for the state of California of population demographics of residents living within a quarter-mile of an alcohol establishment: ```population_pct_within_qrt_mile_alcohol.csv```
@@ -27,7 +27,7 @@ There are **4 datasets** that will be used to build this model and create visual
 
 All of these datasets have been filtered to focus on California and its County-level information targeting 2014.
 
-###Database
+### Database
 First step in creating this predictive model and getting the answers we are looking for, is to import the raw data into **SQL** and create a schema outlining the table structure and interconnections.
 
 This is done using **PostGres** and **SQL**; ERD schematic below:
@@ -82,12 +82,12 @@ Our input factors (y) will include:
 
 Our **target or (X)** will be the percentage of the population, ```pct_of_total```, within a quarter mile of the alcohol outlet.
 
-##Dashboard Presentation
+## Dashboard Presentation
 The dashboard will be built using Tableau. Visualizations to tell this story will include graphs, heat maps and interactive predictions.
 
 Be on the look out for our findings in the coming weeks!
 
-##GitHub and Communication Protocol
+## GitHub and Communication Protocol
 
 #### GitHub
 In order to accomplish this massive task, this team will be utilizing GitHub to collaborate. In addition to our main (or master branch), this repository contains the following branches organized by function rather than team member for clarity:
