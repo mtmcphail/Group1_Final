@@ -1,0 +1,1834 @@
+GeoFIPS,GeoName,Region,Table,LineCode,IndustryClassification,Description,2014
+6000,California state total,8,CA30,10,...,Personal income (thousands of dollars),1939527656
+6000,California state total,8,CA30,45,...,  Net earnings by place of residence,1256673559
+6000,California state total,8,CA30,50,...,  Personal current transfer receipts,293656439
+6000,California state total,8,CA30,60,...,    Income maintenance benefits 1/,34985185
+6000,California state total,8,CA30,70,...,    Unemployment insurance compensation,6134390
+6000,California state total,8,CA30,80,...,    Retirement and other,252536864
+6000,California state total,8,CA30,90,...,"  Dividends, interest, and rent 2/",389197658
+6000,California state total,8,CA30,100,...,  Population (persons) 3/,38802500
+6000,California state total,8,CA30,110,...,  Per capita personal income 4/,49985
+6000,California state total,8,CA30,120,...,  Per capita net earnings 4/,32386
+6000,California state total,8,CA30,130,...,  Per capita personal current transfer receipts 4/,7568
+6000,California state total,8,CA30,140,...,    Per capita income maintenance benefits 4/,902
+6000,California state total,8,CA30,150,...,    Per capita unemployment insurance compensation 4/,158
+6000,California state total,8,CA30,160,...,    Per capita retirement and other 4/,6508
+6000,California state total,8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10030
+6000,California state total,8,CA30,180,...,  Earnings by place of work,1406610607
+6000,California state total,8,CA30,190,...,    Wages and salaries,991162737
+6000,California state total,8,CA30,200,...,    Supplements to wages and salaries,235024289
+6000,California state total,8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,168421112
+6000,California state total,8,CA30,202,...,      Employer contributions for government social insurance,66603177
+6000,California state total,8,CA30,210,...,    Proprietors' income,180423581
+6000,California state total,8,CA30,220,...,      Farm proprietors' income,11975684
+6000,California state total,8,CA30,230,...,      Nonfarm proprietors' income,168447897
+6000,California state total,8,CA30,240,...,Total employment (number of jobs),22040057
+6000,California state total,8,CA30,250,...,  Wage and salary employment,16688639
+6000,California state total,8,CA30,260,...,  Proprietors employment,5351418
+6000,California state total,8,CA30,270,...,    Farm proprietors employment 6/,63251
+6000,California state total,8,CA30,280,...,    Nonfarm proprietors employment,5288167
+6000,California state total,8,CA30,290,...,Average earnings per job (dollars),63821
+6000,California state total,8,CA30,300,...,  Average wages and salaries,59391
+6000,California state total,8,CA30,310,...,  Average nonfarm proprietors' income,31854
+6001,"Alameda, CA",8,CA30,10,...,Personal income (thousands of dollars),90631392
+6001,"Alameda, CA",8,CA30,45,...,  Net earnings by place of residence,62620520
+6001,"Alameda, CA",8,CA30,50,...,  Personal current transfer receipts,12008859
+6001,"Alameda, CA",8,CA30,60,...,    Income maintenance benefits 1/,1240090
+6001,"Alameda, CA",8,CA30,70,...,    Unemployment insurance compensation,234524
+6001,"Alameda, CA",8,CA30,80,...,    Retirement and other,10534245
+6001,"Alameda, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",16002013
+6001,"Alameda, CA",8,CA30,100,...,  Population (persons) 3/,1610921
+6001,"Alameda, CA",8,CA30,110,...,  Per capita personal income 4/,56261
+6001,"Alameda, CA",8,CA30,120,...,  Per capita net earnings 4/,38872
+6001,"Alameda, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7455
+6001,"Alameda, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,770
+6001,"Alameda, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,146
+6001,"Alameda, CA",8,CA30,160,...,    Per capita retirement and other 4/,6539
+6001,"Alameda, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9933
+6001,"Alameda, CA",8,CA30,180,...,  Earnings by place of work,67248710
+6001,"Alameda, CA",8,CA30,190,...,    Wages and salaries,49696788
+6001,"Alameda, CA",8,CA30,200,...,    Supplements to wages and salaries,11542166
+6001,"Alameda, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,8124408
+6001,"Alameda, CA",8,CA30,202,...,      Employer contributions for government social insurance,3417758
+6001,"Alameda, CA",8,CA30,210,...,    Proprietors' income,6009756
+6001,"Alameda, CA",8,CA30,220,...,      Farm proprietors' income,26047
+6001,"Alameda, CA",8,CA30,230,...,      Nonfarm proprietors' income,5983709
+6001,"Alameda, CA",8,CA30,240,...,Total employment (number of jobs),965585
+6001,"Alameda, CA",8,CA30,250,...,  Wage and salary employment,748870
+6001,"Alameda, CA",8,CA30,260,...,  Proprietors employment,216715
+6001,"Alameda, CA",8,CA30,270,...,    Farm proprietors employment 6/,349
+6001,"Alameda, CA",8,CA30,280,...,    Nonfarm proprietors employment,216366
+6001,"Alameda, CA",8,CA30,290,...,Average earnings per job (dollars),69646
+6001,"Alameda, CA",8,CA30,300,...,  Average wages and salaries,66362
+6001,"Alameda, CA",8,CA30,310,...,  Average nonfarm proprietors' income,27655
+6003,"Alpine, CA",8,CA30,10,...,Personal income (thousands of dollars),69650
+6003,"Alpine, CA",8,CA30,45,...,  Net earnings by place of residence,38675
+6003,"Alpine, CA",8,CA30,50,...,  Personal current transfer receipts,13765
+6003,"Alpine, CA",8,CA30,60,...,    Income maintenance benefits 1/,1203
+6003,"Alpine, CA",8,CA30,70,...,    Unemployment insurance compensation,208
+6003,"Alpine, CA",8,CA30,80,...,    Retirement and other,12354
+6003,"Alpine, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",17210
+6003,"Alpine, CA",8,CA30,100,...,  Population (persons) 3/,1116
+6003,"Alpine, CA",8,CA30,110,...,  Per capita personal income 4/,62410
+6003,"Alpine, CA",8,CA30,120,...,  Per capita net earnings 4/,34655
+6003,"Alpine, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,12334
+6003,"Alpine, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1078
+6003,"Alpine, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,186
+6003,"Alpine, CA",8,CA30,160,...,    Per capita retirement and other 4/,11070
+6003,"Alpine, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",15421
+6003,"Alpine, CA",8,CA30,180,...,  Earnings by place of work,56525
+6003,"Alpine, CA",8,CA30,190,...,    Wages and salaries,40567
+6003,"Alpine, CA",8,CA30,200,...,    Supplements to wages and salaries,10723
+6003,"Alpine, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,8413
+6003,"Alpine, CA",8,CA30,202,...,      Employer contributions for government social insurance,2310
+6003,"Alpine, CA",8,CA30,210,...,    Proprietors' income,5235
+6003,"Alpine, CA",8,CA30,220,...,      Farm proprietors' income,0
+6003,"Alpine, CA",8,CA30,230,...,      Nonfarm proprietors' income,5235
+6003,"Alpine, CA",8,CA30,240,...,Total employment (number of jobs),1321
+6003,"Alpine, CA",8,CA30,250,...,  Wage and salary employment,890
+6003,"Alpine, CA",8,CA30,260,...,  Proprietors employment,431
+6003,"Alpine, CA",8,CA30,270,...,    Farm proprietors employment 6/,0
+6003,"Alpine, CA",8,CA30,280,...,    Nonfarm proprietors employment,431
+6003,"Alpine, CA",8,CA30,290,...,Average earnings per job (dollars),42790
+6003,"Alpine, CA",8,CA30,300,...,  Average wages and salaries,45581
+6003,"Alpine, CA",8,CA30,310,...,  Average nonfarm proprietors' income,12146
+6005,"Amador, CA",8,CA30,10,...,Personal income (thousands of dollars),1451465
+6005,"Amador, CA",8,CA30,45,...,  Net earnings by place of residence,772329
+6005,"Amador, CA",8,CA30,50,...,  Personal current transfer receipts,361861
+6005,"Amador, CA",8,CA30,60,...,    Income maintenance benefits 1/,19668
+6005,"Amador, CA",8,CA30,70,...,    Unemployment insurance compensation,5250
+6005,"Amador, CA",8,CA30,80,...,    Retirement and other,336943
+6005,"Amador, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",317275
+6005,"Amador, CA",8,CA30,100,...,  Population (persons) 3/,36742
+6005,"Amador, CA",8,CA30,110,...,  Per capita personal income 4/,39504
+6005,"Amador, CA",8,CA30,120,...,  Per capita net earnings 4/,21020
+6005,"Amador, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9849
+6005,"Amador, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,535
+6005,"Amador, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,143
+6005,"Amador, CA",8,CA30,160,...,    Per capita retirement and other 4/,9171
+6005,"Amador, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8635
+6005,"Amador, CA",8,CA30,180,...,  Earnings by place of work,801218
+6005,"Amador, CA",8,CA30,190,...,    Wages and salaries,503707
+6005,"Amador, CA",8,CA30,200,...,    Supplements to wages and salaries,181395
+6005,"Amador, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,149513
+6005,"Amador, CA",8,CA30,202,...,      Employer contributions for government social insurance,31882
+6005,"Amador, CA",8,CA30,210,...,    Proprietors' income,116116
+6005,"Amador, CA",8,CA30,220,...,      Farm proprietors' income,13612
+6005,"Amador, CA",8,CA30,230,...,      Nonfarm proprietors' income,102504
+6005,"Amador, CA",8,CA30,240,...,Total employment (number of jobs),17731
+6005,"Amador, CA",8,CA30,250,...,  Wage and salary employment,11974
+6005,"Amador, CA",8,CA30,260,...,  Proprietors employment,5757
+6005,"Amador, CA",8,CA30,270,...,    Farm proprietors employment 6/,383
+6005,"Amador, CA",8,CA30,280,...,    Nonfarm proprietors employment,5374
+6005,"Amador, CA",8,CA30,290,...,Average earnings per job (dollars),45187
+6005,"Amador, CA",8,CA30,300,...,  Average wages and salaries,42067
+6005,"Amador, CA",8,CA30,310,...,  Average nonfarm proprietors' income,19074
+6007,"Butte, CA",8,CA30,10,...,Personal income (thousands of dollars),8298110
+6007,"Butte, CA",8,CA30,45,...,  Net earnings by place of residence,4512823
+6007,"Butte, CA",8,CA30,50,...,  Personal current transfer receipts,2216982
+6007,"Butte, CA",8,CA30,60,...,    Income maintenance benefits 1/,244398
+6007,"Butte, CA",8,CA30,70,...,    Unemployment insurance compensation,36890
+6007,"Butte, CA",8,CA30,80,...,    Retirement and other,1935694
+6007,"Butte, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1568305
+6007,"Butte, CA",8,CA30,100,...,  Population (persons) 3/,224241
+6007,"Butte, CA",8,CA30,110,...,  Per capita personal income 4/,37005
+6007,"Butte, CA",8,CA30,120,...,  Per capita net earnings 4/,20125
+6007,"Butte, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9887
+6007,"Butte, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1090
+6007,"Butte, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,165
+6007,"Butte, CA",8,CA30,160,...,    Per capita retirement and other 4/,8632
+6007,"Butte, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6994
+6007,"Butte, CA",8,CA30,180,...,  Earnings by place of work,4846846
+6007,"Butte, CA",8,CA30,190,...,    Wages and salaries,3103978
+6007,"Butte, CA",8,CA30,200,...,    Supplements to wages and salaries,948020
+6007,"Butte, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,723563
+6007,"Butte, CA",8,CA30,202,...,      Employer contributions for government social insurance,224457
+6007,"Butte, CA",8,CA30,210,...,    Proprietors' income,794848
+6007,"Butte, CA",8,CA30,220,...,      Farm proprietors' income,208285
+6007,"Butte, CA",8,CA30,230,...,      Nonfarm proprietors' income,586563
+6007,"Butte, CA",8,CA30,240,...,Total employment (number of jobs),109017
+6007,"Butte, CA",8,CA30,250,...,  Wage and salary employment,81945
+6007,"Butte, CA",8,CA30,260,...,  Proprietors employment,27072
+6007,"Butte, CA",8,CA30,270,...,    Farm proprietors employment 6/,1720
+6007,"Butte, CA",8,CA30,280,...,    Nonfarm proprietors employment,25352
+6007,"Butte, CA",8,CA30,290,...,Average earnings per job (dollars),44460
+6007,"Butte, CA",8,CA30,300,...,  Average wages and salaries,37879
+6007,"Butte, CA",8,CA30,310,...,  Average nonfarm proprietors' income,23137
+6009,"Calaveras, CA",8,CA30,10,...,Personal income (thousands of dollars),1923243
+6009,"Calaveras, CA",8,CA30,45,...,  Net earnings by place of residence,999364
+6009,"Calaveras, CA",8,CA30,50,...,  Personal current transfer receipts,472167
+6009,"Calaveras, CA",8,CA30,60,...,    Income maintenance benefits 1/,31713
+6009,"Calaveras, CA",8,CA30,70,...,    Unemployment insurance compensation,7257
+6009,"Calaveras, CA",8,CA30,80,...,    Retirement and other,433197
+6009,"Calaveras, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",451712
+6009,"Calaveras, CA",8,CA30,100,...,  Population (persons) 3/,44624
+6009,"Calaveras, CA",8,CA30,110,...,  Per capita personal income 4/,43099
+6009,"Calaveras, CA",8,CA30,120,...,  Per capita net earnings 4/,22395
+6009,"Calaveras, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10581
+6009,"Calaveras, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,711
+6009,"Calaveras, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,163
+6009,"Calaveras, CA",8,CA30,160,...,    Per capita retirement and other 4/,9708
+6009,"Calaveras, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10123
+6009,"Calaveras, CA",8,CA30,180,...,  Earnings by place of work,595436
+6009,"Calaveras, CA",8,CA30,190,...,    Wages and salaries,321520
+6009,"Calaveras, CA",8,CA30,200,...,    Supplements to wages and salaries,114931
+6009,"Calaveras, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,93038
+6009,"Calaveras, CA",8,CA30,202,...,      Employer contributions for government social insurance,21893
+6009,"Calaveras, CA",8,CA30,210,...,    Proprietors' income,158985
+6009,"Calaveras, CA",8,CA30,220,...,      Farm proprietors' income,6622
+6009,"Calaveras, CA",8,CA30,230,...,      Nonfarm proprietors' income,152363
+6009,"Calaveras, CA",8,CA30,240,...,Total employment (number of jobs),16814
+6009,"Calaveras, CA",8,CA30,250,...,  Wage and salary employment,8844
+6009,"Calaveras, CA",8,CA30,260,...,  Proprietors employment,7970
+6009,"Calaveras, CA",8,CA30,270,...,    Farm proprietors employment 6/,566
+6009,"Calaveras, CA",8,CA30,280,...,    Nonfarm proprietors employment,7404
+6009,"Calaveras, CA",8,CA30,290,...,Average earnings per job (dollars),35413
+6009,"Calaveras, CA",8,CA30,300,...,  Average wages and salaries,36355
+6009,"Calaveras, CA",8,CA30,310,...,  Average nonfarm proprietors' income,20578
+6011,"Colusa, CA",8,CA30,10,...,Personal income (thousands of dollars),939008
+6011,"Colusa, CA",8,CA30,45,...,  Net earnings by place of residence,634014
+6011,"Colusa, CA",8,CA30,50,...,  Personal current transfer receipts,156853
+6011,"Colusa, CA",8,CA30,60,...,    Income maintenance benefits 1/,16809
+6011,"Colusa, CA",8,CA30,70,...,    Unemployment insurance compensation,11758
+6011,"Colusa, CA",8,CA30,80,...,    Retirement and other,128286
+6011,"Colusa, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",148141
+6011,"Colusa, CA",8,CA30,100,...,  Population (persons) 3/,21419
+6011,"Colusa, CA",8,CA30,110,...,  Per capita personal income 4/,43840
+6011,"Colusa, CA",8,CA30,120,...,  Per capita net earnings 4/,29601
+6011,"Colusa, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7323
+6011,"Colusa, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,785
+6011,"Colusa, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,549
+6011,"Colusa, CA",8,CA30,160,...,    Per capita retirement and other 4/,5989
+6011,"Colusa, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6916
+6011,"Colusa, CA",8,CA30,180,...,  Earnings by place of work,717994
+6011,"Colusa, CA",8,CA30,190,...,    Wages and salaries,357989
+6011,"Colusa, CA",8,CA30,200,...,    Supplements to wages and salaries,109449
+6011,"Colusa, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,84142
+6011,"Colusa, CA",8,CA30,202,...,      Employer contributions for government social insurance,25307
+6011,"Colusa, CA",8,CA30,210,...,    Proprietors' income,250556
+6011,"Colusa, CA",8,CA30,220,...,      Farm proprietors' income,159226
+6011,"Colusa, CA",8,CA30,230,...,      Nonfarm proprietors' income,91330
+6011,"Colusa, CA",8,CA30,240,...,Total employment (number of jobs),11787
+6011,"Colusa, CA",8,CA30,250,...,  Wage and salary employment,9025
+6011,"Colusa, CA",8,CA30,260,...,  Proprietors employment,2762
+6011,"Colusa, CA",8,CA30,270,...,    Farm proprietors employment 6/,664
+6011,"Colusa, CA",8,CA30,280,...,    Nonfarm proprietors employment,2098
+6011,"Colusa, CA",8,CA30,290,...,Average earnings per job (dollars),60914
+6011,"Colusa, CA",8,CA30,300,...,  Average wages and salaries,39666
+6011,"Colusa, CA",8,CA30,310,...,  Average nonfarm proprietors' income,43532
+6013,"Contra Costa, CA",8,CA30,10,...,Personal income (thousands of dollars),70849779
+6013,"Contra Costa, CA",8,CA30,45,...,  Net earnings by place of residence,48698122
+6013,"Contra Costa, CA",8,CA30,50,...,  Personal current transfer receipts,8051761
+6013,"Contra Costa, CA",8,CA30,60,...,    Income maintenance benefits 1/,644821
+6013,"Contra Costa, CA",8,CA30,70,...,    Unemployment insurance compensation,165375
+6013,"Contra Costa, CA",8,CA30,80,...,    Retirement and other,7241565
+6013,"Contra Costa, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",14099896
+6013,"Contra Costa, CA",8,CA30,100,...,  Population (persons) 3/,1111339
+6013,"Contra Costa, CA",8,CA30,110,...,  Per capita personal income 4/,63752
+6013,"Contra Costa, CA",8,CA30,120,...,  Per capita net earnings 4/,43819
+6013,"Contra Costa, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7245
+6013,"Contra Costa, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,580
+6013,"Contra Costa, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,149
+6013,"Contra Costa, CA",8,CA30,160,...,    Per capita retirement and other 4/,6516
+6013,"Contra Costa, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",12687
+6013,"Contra Costa, CA",8,CA30,180,...,  Earnings by place of work,33763511
+6013,"Contra Costa, CA",8,CA30,190,...,    Wages and salaries,23197283
+6013,"Contra Costa, CA",8,CA30,200,...,    Supplements to wages and salaries,5484376
+6013,"Contra Costa, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,3888606
+6013,"Contra Costa, CA",8,CA30,202,...,      Employer contributions for government social insurance,1595770
+6013,"Contra Costa, CA",8,CA30,210,...,    Proprietors' income,5081852
+6013,"Contra Costa, CA",8,CA30,220,...,      Farm proprietors' income,25632
+6013,"Contra Costa, CA",8,CA30,230,...,      Nonfarm proprietors' income,5056220
+6013,"Contra Costa, CA",8,CA30,240,...,Total employment (number of jobs),517311
+6013,"Contra Costa, CA",8,CA30,250,...,  Wage and salary employment,366009
+6013,"Contra Costa, CA",8,CA30,260,...,  Proprietors employment,151302
+6013,"Contra Costa, CA",8,CA30,270,...,    Farm proprietors employment 6/,507
+6013,"Contra Costa, CA",8,CA30,280,...,    Nonfarm proprietors employment,150795
+6013,"Contra Costa, CA",8,CA30,290,...,Average earnings per job (dollars),65267
+6013,"Contra Costa, CA",8,CA30,300,...,  Average wages and salaries,63379
+6013,"Contra Costa, CA",8,CA30,310,...,  Average nonfarm proprietors' income,33530
+6015,"Del Norte, CA",8,CA30,10,...,Personal income (thousands of dollars),828255
+6015,"Del Norte, CA",8,CA30,45,...,  Net earnings by place of residence,386155
+6015,"Del Norte, CA",8,CA30,50,...,  Personal current transfer receipts,295713
+6015,"Del Norte, CA",8,CA30,60,...,    Income maintenance benefits 1/,39715
+6015,"Del Norte, CA",8,CA30,70,...,    Unemployment insurance compensation,4510
+6015,"Del Norte, CA",8,CA30,80,...,    Retirement and other,251488
+6015,"Del Norte, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",146387
+6015,"Del Norte, CA",8,CA30,100,...,  Population (persons) 3/,27212
+6015,"Del Norte, CA",8,CA30,110,...,  Per capita personal income 4/,30437
+6015,"Del Norte, CA",8,CA30,120,...,  Per capita net earnings 4/,14191
+6015,"Del Norte, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10867
+6015,"Del Norte, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1459
+6015,"Del Norte, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,166
+6015,"Del Norte, CA",8,CA30,160,...,    Per capita retirement and other 4/,9242
+6015,"Del Norte, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5380
+6015,"Del Norte, CA",8,CA30,180,...,  Earnings by place of work,481664
+6015,"Del Norte, CA",8,CA30,190,...,    Wages and salaries,297548
+6015,"Del Norte, CA",8,CA30,200,...,    Supplements to wages and salaries,127173
+6015,"Del Norte, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,109245
+6015,"Del Norte, CA",8,CA30,202,...,      Employer contributions for government social insurance,17928
+6015,"Del Norte, CA",8,CA30,210,...,    Proprietors' income,56943
+6015,"Del Norte, CA",8,CA30,220,...,      Farm proprietors' income,7055
+6015,"Del Norte, CA",8,CA30,230,...,      Nonfarm proprietors' income,49888
+6015,"Del Norte, CA",8,CA30,240,...,Total employment (number of jobs),10964
+6015,"Del Norte, CA",8,CA30,250,...,  Wage and salary employment,8231
+6015,"Del Norte, CA",8,CA30,260,...,  Proprietors employment,2733
+6015,"Del Norte, CA",8,CA30,270,...,    Farm proprietors employment 6/,99
+6015,"Del Norte, CA",8,CA30,280,...,    Nonfarm proprietors employment,2634
+6015,"Del Norte, CA",8,CA30,290,...,Average earnings per job (dollars),43931
+6015,"Del Norte, CA",8,CA30,300,...,  Average wages and salaries,36150
+6015,"Del Norte, CA",8,CA30,310,...,  Average nonfarm proprietors' income,18940
+6017,"El Dorado, CA",8,CA30,10,...,Personal income (thousands of dollars),10429619
+6017,"El Dorado, CA",8,CA30,45,...,  Net earnings by place of residence,7117105
+6017,"El Dorado, CA",8,CA30,50,...,  Personal current transfer receipts,1457156
+6017,"El Dorado, CA",8,CA30,60,...,    Income maintenance benefits 1/,86478
+6017,"El Dorado, CA",8,CA30,70,...,    Unemployment insurance compensation,29340
+6017,"El Dorado, CA",8,CA30,80,...,    Retirement and other,1341338
+6017,"El Dorado, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1855358
+6017,"El Dorado, CA",8,CA30,100,...,  Population (persons) 3/,183087
+6017,"El Dorado, CA",8,CA30,110,...,  Per capita personal income 4/,56965
+6017,"El Dorado, CA",8,CA30,120,...,  Per capita net earnings 4/,38873
+6017,"El Dorado, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7959
+6017,"El Dorado, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,472
+6017,"El Dorado, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,160
+6017,"El Dorado, CA",8,CA30,160,...,    Per capita retirement and other 4/,7326
+6017,"El Dorado, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10134
+6017,"El Dorado, CA",8,CA30,180,...,  Earnings by place of work,4038932
+6017,"El Dorado, CA",8,CA30,190,...,    Wages and salaries,2426459
+6017,"El Dorado, CA",8,CA30,200,...,    Supplements to wages and salaries,664596
+6017,"El Dorado, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,492419
+6017,"El Dorado, CA",8,CA30,202,...,      Employer contributions for government social insurance,172177
+6017,"El Dorado, CA",8,CA30,210,...,    Proprietors' income,947877
+6017,"El Dorado, CA",8,CA30,220,...,      Farm proprietors' income,-869
+6017,"El Dorado, CA",8,CA30,230,...,      Nonfarm proprietors' income,948746
+6017,"El Dorado, CA",8,CA30,240,...,Total employment (number of jobs),94477
+6017,"El Dorado, CA",8,CA30,250,...,  Wage and salary employment,53825
+6017,"El Dorado, CA",8,CA30,260,...,  Proprietors employment,40652
+6017,"El Dorado, CA",8,CA30,270,...,    Farm proprietors employment 6/,1142
+6017,"El Dorado, CA",8,CA30,280,...,    Nonfarm proprietors employment,39510
+6017,"El Dorado, CA",8,CA30,290,...,Average earnings per job (dollars),42750
+6017,"El Dorado, CA",8,CA30,300,...,  Average wages and salaries,45081
+6017,"El Dorado, CA",8,CA30,310,...,  Average nonfarm proprietors' income,24013
+6019,"Fresno, CA",8,CA30,10,...,Personal income (thousands of dollars),34567706
+6019,"Fresno, CA",8,CA30,45,...,  Net earnings by place of residence,20858870
+6019,"Fresno, CA",8,CA30,50,...,  Personal current transfer receipts,8271334
+6019,"Fresno, CA",8,CA30,60,...,    Income maintenance benefits 1/,1390380
+6019,"Fresno, CA",8,CA30,70,...,    Unemployment insurance compensation,231229
+6019,"Fresno, CA",8,CA30,80,...,    Retirement and other,6649725
+6019,"Fresno, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",5437502
+6019,"Fresno, CA",8,CA30,100,...,  Population (persons) 3/,965974
+6019,"Fresno, CA",8,CA30,110,...,  Per capita personal income 4/,35785
+6019,"Fresno, CA",8,CA30,120,...,  Per capita net earnings 4/,21594
+6019,"Fresno, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8563
+6019,"Fresno, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1439
+6019,"Fresno, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,239
+6019,"Fresno, CA",8,CA30,160,...,    Per capita retirement and other 4/,6884
+6019,"Fresno, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5629
+6019,"Fresno, CA",8,CA30,180,...,  Earnings by place of work,23409531
+6019,"Fresno, CA",8,CA30,190,...,    Wages and salaries,15197761
+6019,"Fresno, CA",8,CA30,200,...,    Supplements to wages and salaries,4574261
+6019,"Fresno, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,3454954
+6019,"Fresno, CA",8,CA30,202,...,      Employer contributions for government social insurance,1119307
+6019,"Fresno, CA",8,CA30,210,...,    Proprietors' income,3637509
+6019,"Fresno, CA",8,CA30,220,...,      Farm proprietors' income,1031924
+6019,"Fresno, CA",8,CA30,230,...,      Nonfarm proprietors' income,2605585
+6019,"Fresno, CA",8,CA30,240,...,Total employment (number of jobs),468804
+6019,"Fresno, CA",8,CA30,250,...,  Wage and salary employment,375077
+6019,"Fresno, CA",8,CA30,260,...,  Proprietors employment,93727
+6019,"Fresno, CA",8,CA30,270,...,    Farm proprietors employment 6/,4619
+6019,"Fresno, CA",8,CA30,280,...,    Nonfarm proprietors employment,89108
+6019,"Fresno, CA",8,CA30,290,...,Average earnings per job (dollars),49935
+6019,"Fresno, CA",8,CA30,300,...,  Average wages and salaries,40519
+6019,"Fresno, CA",8,CA30,310,...,  Average nonfarm proprietors' income,29241
+6021,"Glenn, CA",8,CA30,10,...,Personal income (thousands of dollars),1070048
+6021,"Glenn, CA",8,CA30,45,...,  Net earnings by place of residence,643058
+6021,"Glenn, CA",8,CA30,50,...,  Personal current transfer receipts,247446
+6021,"Glenn, CA",8,CA30,60,...,    Income maintenance benefits 1/,29277
+6021,"Glenn, CA",8,CA30,70,...,    Unemployment insurance compensation,6452
+6021,"Glenn, CA",8,CA30,80,...,    Retirement and other,211717
+6021,"Glenn, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",179544
+6021,"Glenn, CA",8,CA30,100,...,  Population (persons) 3/,27955
+6021,"Glenn, CA",8,CA30,110,...,  Per capita personal income 4/,38278
+6021,"Glenn, CA",8,CA30,120,...,  Per capita net earnings 4/,23003
+6021,"Glenn, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8852
+6021,"Glenn, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1047
+6021,"Glenn, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,231
+6021,"Glenn, CA",8,CA30,160,...,    Per capita retirement and other 4/,7573
+6021,"Glenn, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6423
+6021,"Glenn, CA",8,CA30,180,...,  Earnings by place of work,669056
+6021,"Glenn, CA",8,CA30,190,...,    Wages and salaries,319490
+6021,"Glenn, CA",8,CA30,200,...,    Supplements to wages and salaries,105120
+6021,"Glenn, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,82165
+6021,"Glenn, CA",8,CA30,202,...,      Employer contributions for government social insurance,22955
+6021,"Glenn, CA",8,CA30,210,...,    Proprietors' income,244446
+6021,"Glenn, CA",8,CA30,220,...,      Farm proprietors' income,173008
+6021,"Glenn, CA",8,CA30,230,...,      Nonfarm proprietors' income,71438
+6021,"Glenn, CA",8,CA30,240,...,Total employment (number of jobs),12555
+6021,"Glenn, CA",8,CA30,250,...,  Wage and salary employment,8767
+6021,"Glenn, CA",8,CA30,260,...,  Proprietors employment,3788
+6021,"Glenn, CA",8,CA30,270,...,    Farm proprietors employment 6/,1113
+6021,"Glenn, CA",8,CA30,280,...,    Nonfarm proprietors employment,2675
+6021,"Glenn, CA",8,CA30,290,...,Average earnings per job (dollars),53290
+6021,"Glenn, CA",8,CA30,300,...,  Average wages and salaries,36442
+6021,"Glenn, CA",8,CA30,310,...,  Average nonfarm proprietors' income,26706
+6023,"Humboldt, CA",8,CA30,10,...,Personal income (thousands of dollars),5093455
+6023,"Humboldt, CA",8,CA30,45,...,  Net earnings by place of residence,2701486
+6023,"Humboldt, CA",8,CA30,50,...,  Personal current transfer receipts,1295745
+6023,"Humboldt, CA",8,CA30,60,...,    Income maintenance benefits 1/,135860
+6023,"Humboldt, CA",8,CA30,70,...,    Unemployment insurance compensation,19087
+6023,"Humboldt, CA",8,CA30,80,...,    Retirement and other,1140798
+6023,"Humboldt, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1096224
+6023,"Humboldt, CA",8,CA30,100,...,  Population (persons) 3/,134809
+6023,"Humboldt, CA",8,CA30,110,...,  Per capita personal income 4/,37783
+6023,"Humboldt, CA",8,CA30,120,...,  Per capita net earnings 4/,20039
+6023,"Humboldt, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9612
+6023,"Humboldt, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1008
+6023,"Humboldt, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,142
+6023,"Humboldt, CA",8,CA30,160,...,    Per capita retirement and other 4/,8462
+6023,"Humboldt, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8132
+6023,"Humboldt, CA",8,CA30,180,...,  Earnings by place of work,2963425
+6023,"Humboldt, CA",8,CA30,190,...,    Wages and salaries,1832311
+6023,"Humboldt, CA",8,CA30,200,...,    Supplements to wages and salaries,616389
+6023,"Humboldt, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,489521
+6023,"Humboldt, CA",8,CA30,202,...,      Employer contributions for government social insurance,126868
+6023,"Humboldt, CA",8,CA30,210,...,    Proprietors' income,514725
+6023,"Humboldt, CA",8,CA30,220,...,      Farm proprietors' income,77959
+6023,"Humboldt, CA",8,CA30,230,...,      Nonfarm proprietors' income,436766
+6023,"Humboldt, CA",8,CA30,240,...,Total employment (number of jobs),70296
+6023,"Humboldt, CA",8,CA30,250,...,  Wage and salary employment,49290
+6023,"Humboldt, CA",8,CA30,260,...,  Proprietors employment,21006
+6023,"Humboldt, CA",8,CA30,270,...,    Farm proprietors employment 6/,794
+6023,"Humboldt, CA",8,CA30,280,...,    Nonfarm proprietors employment,20212
+6023,"Humboldt, CA",8,CA30,290,...,Average earnings per job (dollars),42156
+6023,"Humboldt, CA",8,CA30,300,...,  Average wages and salaries,37174
+6023,"Humboldt, CA",8,CA30,310,...,  Average nonfarm proprietors' income,21609
+6025,"Imperial, CA",8,CA30,10,...,Personal income (thousands of dollars),5802217
+6025,"Imperial, CA",8,CA30,45,...,  Net earnings by place of residence,3617536
+6025,"Imperial, CA",8,CA30,50,...,  Personal current transfer receipts,1474516
+6025,"Imperial, CA",8,CA30,60,...,    Income maintenance benefits 1/,276349
+6025,"Imperial, CA",8,CA30,70,...,    Unemployment insurance compensation,106586
+6025,"Imperial, CA",8,CA30,80,...,    Retirement and other,1091581
+6025,"Imperial, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",710165
+6025,"Imperial, CA",8,CA30,100,...,  Population (persons) 3/,179091
+6025,"Imperial, CA",8,CA30,110,...,  Per capita personal income 4/,32398
+6025,"Imperial, CA",8,CA30,120,...,  Per capita net earnings 4/,20199
+6025,"Imperial, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8233
+6025,"Imperial, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1543
+6025,"Imperial, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,595
+6025,"Imperial, CA",8,CA30,160,...,    Per capita retirement and other 4/,6095
+6025,"Imperial, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",3965
+6025,"Imperial, CA",8,CA30,180,...,  Earnings by place of work,4136938
+6025,"Imperial, CA",8,CA30,190,...,    Wages and salaries,2382452
+6025,"Imperial, CA",8,CA30,200,...,    Supplements to wages and salaries,882866
+6025,"Imperial, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,711873
+6025,"Imperial, CA",8,CA30,202,...,      Employer contributions for government social insurance,170993
+6025,"Imperial, CA",8,CA30,210,...,    Proprietors' income,871620
+6025,"Imperial, CA",8,CA30,220,...,      Farm proprietors' income,588849
+6025,"Imperial, CA",8,CA30,230,...,      Nonfarm proprietors' income,282771
+6025,"Imperial, CA",8,CA30,240,...,Total employment (number of jobs),81499
+6025,"Imperial, CA",8,CA30,250,...,  Wage and salary employment,66463
+6025,"Imperial, CA",8,CA30,260,...,  Proprietors employment,15036
+6025,"Imperial, CA",8,CA30,270,...,    Farm proprietors employment 6/,285
+6025,"Imperial, CA",8,CA30,280,...,    Nonfarm proprietors employment,14751
+6025,"Imperial, CA",8,CA30,290,...,Average earnings per job (dollars),50761
+6025,"Imperial, CA",8,CA30,300,...,  Average wages and salaries,35846
+6025,"Imperial, CA",8,CA30,310,...,  Average nonfarm proprietors' income,19170
+6027,"Inyo, CA",8,CA30,10,...,Personal income (thousands of dollars),821115
+6027,"Inyo, CA",8,CA30,45,...,  Net earnings by place of residence,470160
+6027,"Inyo, CA",8,CA30,50,...,  Personal current transfer receipts,183769
+6027,"Inyo, CA",8,CA30,60,...,    Income maintenance benefits 1/,13259
+6027,"Inyo, CA",8,CA30,70,...,    Unemployment insurance compensation,3147
+6027,"Inyo, CA",8,CA30,80,...,    Retirement and other,167363
+6027,"Inyo, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",167186
+6027,"Inyo, CA",8,CA30,100,...,  Population (persons) 3/,18410
+6027,"Inyo, CA",8,CA30,110,...,  Per capita personal income 4/,44602
+6027,"Inyo, CA",8,CA30,120,...,  Per capita net earnings 4/,25538
+6027,"Inyo, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9982
+6027,"Inyo, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,720
+6027,"Inyo, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,171
+6027,"Inyo, CA",8,CA30,160,...,    Per capita retirement and other 4/,9091
+6027,"Inyo, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9081
+6027,"Inyo, CA",8,CA30,180,...,  Earnings by place of work,555118
+6027,"Inyo, CA",8,CA30,190,...,    Wages and salaries,324964
+6027,"Inyo, CA",8,CA30,200,...,    Supplements to wages and salaries,124476
+6027,"Inyo, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,104547
+6027,"Inyo, CA",8,CA30,202,...,      Employer contributions for government social insurance,19929
+6027,"Inyo, CA",8,CA30,210,...,    Proprietors' income,105678
+6027,"Inyo, CA",8,CA30,220,...,      Farm proprietors' income,8044
+6027,"Inyo, CA",8,CA30,230,...,      Nonfarm proprietors' income,97634
+6027,"Inyo, CA",8,CA30,240,...,Total employment (number of jobs),10438
+6027,"Inyo, CA",8,CA30,250,...,  Wage and salary employment,7763
+6027,"Inyo, CA",8,CA30,260,...,  Proprietors employment,2675
+6027,"Inyo, CA",8,CA30,270,...,    Farm proprietors employment 6/,87
+6027,"Inyo, CA",8,CA30,280,...,    Nonfarm proprietors employment,2588
+6027,"Inyo, CA",8,CA30,290,...,Average earnings per job (dollars),53182
+6027,"Inyo, CA",8,CA30,300,...,  Average wages and salaries,41861
+6027,"Inyo, CA",8,CA30,310,...,  Average nonfarm proprietors' income,37726
+6029,"Kern, CA",8,CA30,10,...,Personal income (thousands of dollars),31629281
+6029,"Kern, CA",8,CA30,45,...,  Net earnings by place of residence,21351205
+6029,"Kern, CA",8,CA30,50,...,  Personal current transfer receipts,5945139
+6029,"Kern, CA",8,CA30,60,...,    Income maintenance benefits 1/,1027141
+6029,"Kern, CA",8,CA30,70,...,    Unemployment insurance compensation,180342
+6029,"Kern, CA",8,CA30,80,...,    Retirement and other,4737656
+6029,"Kern, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",4332937
+6029,"Kern, CA",8,CA30,100,...,  Population (persons) 3/,874589
+6029,"Kern, CA",8,CA30,110,...,  Per capita personal income 4/,36165
+6029,"Kern, CA",8,CA30,120,...,  Per capita net earnings 4/,24413
+6029,"Kern, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6798
+6029,"Kern, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1174
+6029,"Kern, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,206
+6029,"Kern, CA",8,CA30,160,...,    Per capita retirement and other 4/,5417
+6029,"Kern, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",4954
+6029,"Kern, CA",8,CA30,180,...,  Earnings by place of work,23832718
+6029,"Kern, CA",8,CA30,190,...,    Wages and salaries,15468003
+6029,"Kern, CA",8,CA30,200,...,    Supplements to wages and salaries,4454027
+6029,"Kern, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,3366550
+6029,"Kern, CA",8,CA30,202,...,      Employer contributions for government social insurance,1087477
+6029,"Kern, CA",8,CA30,210,...,    Proprietors' income,3910688
+6029,"Kern, CA",8,CA30,220,...,      Farm proprietors' income,1104333
+6029,"Kern, CA",8,CA30,230,...,      Nonfarm proprietors' income,2806355
+6029,"Kern, CA",8,CA30,240,...,Total employment (number of jobs),412183
+6029,"Kern, CA",8,CA30,250,...,  Wage and salary employment,331269
+6029,"Kern, CA",8,CA30,260,...,  Proprietors employment,80914
+6029,"Kern, CA",8,CA30,270,...,    Farm proprietors employment 6/,1523
+6029,"Kern, CA",8,CA30,280,...,    Nonfarm proprietors employment,79391
+6029,"Kern, CA",8,CA30,290,...,Average earnings per job (dollars),57821
+6029,"Kern, CA",8,CA30,300,...,  Average wages and salaries,46693
+6029,"Kern, CA",8,CA30,310,...,  Average nonfarm proprietors' income,35349
+6031,"Kings, CA",8,CA30,10,...,Personal income (thousands of dollars),4864335
+6031,"Kings, CA",8,CA30,45,...,  Net earnings by place of residence,3100695
+6031,"Kings, CA",8,CA30,50,...,  Personal current transfer receipts,1000750
+6031,"Kings, CA",8,CA30,60,...,    Income maintenance benefits 1/,154514
+6031,"Kings, CA",8,CA30,70,...,    Unemployment insurance compensation,32592
+6031,"Kings, CA",8,CA30,80,...,    Retirement and other,813644
+6031,"Kings, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",762890
+6031,"Kings, CA",8,CA30,100,...,  Population (persons) 3/,150269
+6031,"Kings, CA",8,CA30,110,...,  Per capita personal income 4/,32371
+6031,"Kings, CA",8,CA30,120,...,  Per capita net earnings 4/,20634
+6031,"Kings, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6660
+6031,"Kings, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1028
+6031,"Kings, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,217
+6031,"Kings, CA",8,CA30,160,...,    Per capita retirement and other 4/,5415
+6031,"Kings, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5077
+6031,"Kings, CA",8,CA30,180,...,  Earnings by place of work,3546938
+6031,"Kings, CA",8,CA30,190,...,    Wages and salaries,2118674
+6031,"Kings, CA",8,CA30,200,...,    Supplements to wages and salaries,767287
+6031,"Kings, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,612325
+6031,"Kings, CA",8,CA30,202,...,      Employer contributions for government social insurance,154962
+6031,"Kings, CA",8,CA30,210,...,    Proprietors' income,660977
+6031,"Kings, CA",8,CA30,220,...,      Farm proprietors' income,449890
+6031,"Kings, CA",8,CA30,230,...,      Nonfarm proprietors' income,211087
+6031,"Kings, CA",8,CA30,240,...,Total employment (number of jobs),58482
+6031,"Kings, CA",8,CA30,250,...,  Wage and salary employment,49929
+6031,"Kings, CA",8,CA30,260,...,  Proprietors employment,8553
+6031,"Kings, CA",8,CA30,270,...,    Farm proprietors employment 6/,879
+6031,"Kings, CA",8,CA30,280,...,    Nonfarm proprietors employment,7674
+6031,"Kings, CA",8,CA30,290,...,Average earnings per job (dollars),60650
+6031,"Kings, CA",8,CA30,300,...,  Average wages and salaries,42434
+6031,"Kings, CA",8,CA30,310,...,  Average nonfarm proprietors' income,27507
+6033,"Lake, CA",8,CA30,10,...,Personal income (thousands of dollars),2263052
+6033,"Lake, CA",8,CA30,45,...,  Net earnings by place of residence,1105637
+6033,"Lake, CA",8,CA30,50,...,  Personal current transfer receipts,745324
+6033,"Lake, CA",8,CA30,60,...,    Income maintenance benefits 1/,82267
+6033,"Lake, CA",8,CA30,70,...,    Unemployment insurance compensation,11970
+6033,"Lake, CA",8,CA30,80,...,    Retirement and other,651087
+6033,"Lake, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",412091
+6033,"Lake, CA",8,CA30,100,...,  Population (persons) 3/,64184
+6033,"Lake, CA",8,CA30,110,...,  Per capita personal income 4/,35259
+6033,"Lake, CA",8,CA30,120,...,  Per capita net earnings 4/,17226
+6033,"Lake, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,11612
+6033,"Lake, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1282
+6033,"Lake, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,186
+6033,"Lake, CA",8,CA30,160,...,    Per capita retirement and other 4/,10144
+6033,"Lake, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6420
+6033,"Lake, CA",8,CA30,180,...,  Earnings by place of work,957126
+6033,"Lake, CA",8,CA30,190,...,    Wages and salaries,573666
+6033,"Lake, CA",8,CA30,200,...,    Supplements to wages and salaries,196030
+6033,"Lake, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,155537
+6033,"Lake, CA",8,CA30,202,...,      Employer contributions for government social insurance,40493
+6033,"Lake, CA",8,CA30,210,...,    Proprietors' income,187430
+6033,"Lake, CA",8,CA30,220,...,      Farm proprietors' income,37773
+6033,"Lake, CA",8,CA30,230,...,      Nonfarm proprietors' income,149657
+6033,"Lake, CA",8,CA30,240,...,Total employment (number of jobs),23898
+6033,"Lake, CA",8,CA30,250,...,  Wage and salary employment,16496
+6033,"Lake, CA",8,CA30,260,...,  Proprietors employment,7402
+6033,"Lake, CA",8,CA30,270,...,    Farm proprietors employment 6/,715
+6033,"Lake, CA",8,CA30,280,...,    Nonfarm proprietors employment,6687
+6033,"Lake, CA",8,CA30,290,...,Average earnings per job (dollars),40050
+6033,"Lake, CA",8,CA30,300,...,  Average wages and salaries,34776
+6033,"Lake, CA",8,CA30,310,...,  Average nonfarm proprietors' income,22380
+6035,"Lassen, CA",8,CA30,10,...,Personal income (thousands of dollars),1061423
+6035,"Lassen, CA",8,CA30,45,...,  Net earnings by place of residence,620948
+6035,"Lassen, CA",8,CA30,50,...,  Personal current transfer receipts,249227
+6035,"Lassen, CA",8,CA30,60,...,    Income maintenance benefits 1/,24937
+6035,"Lassen, CA",8,CA30,70,...,    Unemployment insurance compensation,5323
+6035,"Lassen, CA",8,CA30,80,...,    Retirement and other,218967
+6035,"Lassen, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",191248
+6035,"Lassen, CA",8,CA30,100,...,  Population (persons) 3/,31749
+6035,"Lassen, CA",8,CA30,110,...,  Per capita personal income 4/,33432
+6035,"Lassen, CA",8,CA30,120,...,  Per capita net earnings 4/,19558
+6035,"Lassen, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7850
+6035,"Lassen, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,785
+6035,"Lassen, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,168
+6035,"Lassen, CA",8,CA30,160,...,    Per capita retirement and other 4/,6897
+6035,"Lassen, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6024
+6035,"Lassen, CA",8,CA30,180,...,  Earnings by place of work,729728
+6035,"Lassen, CA",8,CA30,190,...,    Wages and salaries,455407
+6035,"Lassen, CA",8,CA30,200,...,    Supplements to wages and salaries,205210
+6035,"Lassen, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,176645
+6035,"Lassen, CA",8,CA30,202,...,      Employer contributions for government social insurance,28565
+6035,"Lassen, CA",8,CA30,210,...,    Proprietors' income,69111
+6035,"Lassen, CA",8,CA30,220,...,      Farm proprietors' income,7320
+6035,"Lassen, CA",8,CA30,230,...,      Nonfarm proprietors' income,61791
+6035,"Lassen, CA",8,CA30,240,...,Total employment (number of jobs),13649
+6035,"Lassen, CA",8,CA30,250,...,  Wage and salary employment,10536
+6035,"Lassen, CA",8,CA30,260,...,  Proprietors employment,3113
+6035,"Lassen, CA",8,CA30,270,...,    Farm proprietors employment 6/,378
+6035,"Lassen, CA",8,CA30,280,...,    Nonfarm proprietors employment,2735
+6035,"Lassen, CA",8,CA30,290,...,Average earnings per job (dollars),53464
+6035,"Lassen, CA",8,CA30,300,...,  Average wages and salaries,43224
+6035,"Lassen, CA",8,CA30,310,...,  Average nonfarm proprietors' income,22593
+6037,"Los Angeles, CA",8,CA30,10,...,Personal income (thousands of dollars),499767889
+6037,"Los Angeles, CA",8,CA30,45,...,  Net earnings by place of residence,313195348
+6037,"Los Angeles, CA",8,CA30,50,...,  Personal current transfer receipts,84027272
+6037,"Los Angeles, CA",8,CA30,60,...,    Income maintenance benefits 1/,11330245
+6037,"Los Angeles, CA",8,CA30,70,...,    Unemployment insurance compensation,1438739
+6037,"Los Angeles, CA",8,CA30,80,...,    Retirement and other,71258288
+6037,"Los Angeles, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",102545269
+6037,"Los Angeles, CA",8,CA30,100,...,  Population (persons) 3/,10116705
+6037,"Los Angeles, CA",8,CA30,110,...,  Per capita personal income 4/,49400
+6037,"Los Angeles, CA",8,CA30,120,...,  Per capita net earnings 4/,30958
+6037,"Los Angeles, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8306
+6037,"Los Angeles, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1120
+6037,"Los Angeles, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,142
+6037,"Los Angeles, CA",8,CA30,160,...,    Per capita retirement and other 4/,7044
+6037,"Los Angeles, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10136
+6037,"Los Angeles, CA",8,CA30,180,...,  Earnings by place of work,374483317
+6037,"Los Angeles, CA",8,CA30,190,...,    Wages and salaries,257161590
+6037,"Los Angeles, CA",8,CA30,200,...,    Supplements to wages and salaries,61157707
+6037,"Los Angeles, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,43387328
+6037,"Los Angeles, CA",8,CA30,202,...,      Employer contributions for government social insurance,17770379
+6037,"Los Angeles, CA",8,CA30,210,...,    Proprietors' income,56164020
+6037,"Los Angeles, CA",8,CA30,220,...,      Farm proprietors' income,12964
+6037,"Los Angeles, CA",8,CA30,230,...,      Nonfarm proprietors' income,56151056
+6037,"Los Angeles, CA",8,CA30,240,...,Total employment (number of jobs),6088443
+6037,"Los Angeles, CA",8,CA30,250,...,  Wage and salary employment,4486066
+6037,"Los Angeles, CA",8,CA30,260,...,  Proprietors employment,1602377
+6037,"Los Angeles, CA",8,CA30,270,...,    Farm proprietors employment 6/,997
+6037,"Los Angeles, CA",8,CA30,280,...,    Nonfarm proprietors employment,1601380
+6037,"Los Angeles, CA",8,CA30,290,...,Average earnings per job (dollars),61507
+6037,"Los Angeles, CA",8,CA30,300,...,  Average wages and salaries,57325
+6037,"Los Angeles, CA",8,CA30,310,...,  Average nonfarm proprietors' income,35064
+6039,"Madera, CA",8,CA30,10,...,Personal income (thousands of dollars),5106586
+6039,"Madera, CA",8,CA30,45,...,  Net earnings by place of residence,3252088
+6039,"Madera, CA",8,CA30,50,...,  Personal current transfer receipts,1114997
+6039,"Madera, CA",8,CA30,60,...,    Income maintenance benefits 1/,173834
+6039,"Madera, CA",8,CA30,70,...,    Unemployment insurance compensation,31590
+6039,"Madera, CA",8,CA30,80,...,    Retirement and other,909573
+6039,"Madera, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",739501
+6039,"Madera, CA",8,CA30,100,...,  Population (persons) 3/,154548
+6039,"Madera, CA",8,CA30,110,...,  Per capita personal income 4/,33042
+6039,"Madera, CA",8,CA30,120,...,  Per capita net earnings 4/,21043
+6039,"Madera, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7215
+6039,"Madera, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1125
+6039,"Madera, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,204
+6039,"Madera, CA",8,CA30,160,...,    Per capita retirement and other 4/,5885
+6039,"Madera, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",4785
+6039,"Madera, CA",8,CA30,180,...,  Earnings by place of work,3555534
+6039,"Madera, CA",8,CA30,190,...,    Wages and salaries,1950568
+6039,"Madera, CA",8,CA30,200,...,    Supplements to wages and salaries,626425
+6039,"Madera, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,486944
+6039,"Madera, CA",8,CA30,202,...,      Employer contributions for government social insurance,139481
+6039,"Madera, CA",8,CA30,210,...,    Proprietors' income,978541
+6039,"Madera, CA",8,CA30,220,...,      Farm proprietors' income,624826
+6039,"Madera, CA",8,CA30,230,...,      Nonfarm proprietors' income,353715
+6039,"Madera, CA",8,CA30,240,...,Total employment (number of jobs),63296
+6039,"Madera, CA",8,CA30,250,...,  Wage and salary employment,50430
+6039,"Madera, CA",8,CA30,260,...,  Proprietors employment,12866
+6039,"Madera, CA",8,CA30,270,...,    Farm proprietors employment 6/,1239
+6039,"Madera, CA",8,CA30,280,...,    Nonfarm proprietors employment,11627
+6039,"Madera, CA",8,CA30,290,...,Average earnings per job (dollars),56173
+6039,"Madera, CA",8,CA30,300,...,  Average wages and salaries,38679
+6039,"Madera, CA",8,CA30,310,...,  Average nonfarm proprietors' income,30422
+6041,"Marin, CA",8,CA30,10,...,Personal income (thousands of dollars),25716754
+6041,"Marin, CA",8,CA30,45,...,  Net earnings by place of residence,15160643
+6041,"Marin, CA",8,CA30,50,...,  Personal current transfer receipts,1937044
+6041,"Marin, CA",8,CA30,60,...,    Income maintenance benefits 1/,88246
+6041,"Marin, CA",8,CA30,70,...,    Unemployment insurance compensation,28621
+6041,"Marin, CA",8,CA30,80,...,    Retirement and other,1820177
+6041,"Marin, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",8619067
+6041,"Marin, CA",8,CA30,100,...,  Population (persons) 3/,260750
+6041,"Marin, CA",8,CA30,110,...,  Per capita personal income 4/,98626
+6041,"Marin, CA",8,CA30,120,...,  Per capita net earnings 4/,58142
+6041,"Marin, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7429
+6041,"Marin, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,338
+6041,"Marin, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,110
+6041,"Marin, CA",8,CA30,160,...,    Per capita retirement and other 4/,6981
+6041,"Marin, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",33055
+6041,"Marin, CA",8,CA30,180,...,  Earnings by place of work,11717957
+6041,"Marin, CA",8,CA30,190,...,    Wages and salaries,7481505
+6041,"Marin, CA",8,CA30,200,...,    Supplements to wages and salaries,1672416
+6041,"Marin, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1172797
+6041,"Marin, CA",8,CA30,202,...,      Employer contributions for government social insurance,499619
+6041,"Marin, CA",8,CA30,210,...,    Proprietors' income,2564036
+6041,"Marin, CA",8,CA30,220,...,      Farm proprietors' income,26050
+6041,"Marin, CA",8,CA30,230,...,      Nonfarm proprietors' income,2537986
+6041,"Marin, CA",8,CA30,240,...,Total employment (number of jobs),192713
+6041,"Marin, CA",8,CA30,250,...,  Wage and salary employment,119947
+6041,"Marin, CA",8,CA30,260,...,  Proprietors employment,72766
+6041,"Marin, CA",8,CA30,270,...,    Farm proprietors employment 6/,254
+6041,"Marin, CA",8,CA30,280,...,    Nonfarm proprietors employment,72512
+6041,"Marin, CA",8,CA30,290,...,Average earnings per job (dollars),60805
+6041,"Marin, CA",8,CA30,300,...,  Average wages and salaries,62373
+6041,"Marin, CA",8,CA30,310,...,  Average nonfarm proprietors' income,35001
+6043,"Mariposa, CA",8,CA30,10,...,Personal income (thousands of dollars),740746
+6043,"Mariposa, CA",8,CA30,45,...,  Net earnings by place of residence,401144
+6043,"Mariposa, CA",8,CA30,50,...,  Personal current transfer receipts,192439
+6043,"Mariposa, CA",8,CA30,60,...,    Income maintenance benefits 1/,12130
+6043,"Mariposa, CA",8,CA30,70,...,    Unemployment insurance compensation,3815
+6043,"Mariposa, CA",8,CA30,80,...,    Retirement and other,176494
+6043,"Mariposa, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",147163
+6043,"Mariposa, CA",8,CA30,100,...,  Population (persons) 3/,17682
+6043,"Mariposa, CA",8,CA30,110,...,  Per capita personal income 4/,41893
+6043,"Mariposa, CA",8,CA30,120,...,  Per capita net earnings 4/,22687
+6043,"Mariposa, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10883
+6043,"Mariposa, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,686
+6043,"Mariposa, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,216
+6043,"Mariposa, CA",8,CA30,160,...,    Per capita retirement and other 4/,9982
+6043,"Mariposa, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8323
+6043,"Mariposa, CA",8,CA30,180,...,  Earnings by place of work,318906
+6043,"Mariposa, CA",8,CA30,190,...,    Wages and salaries,192755
+6043,"Mariposa, CA",8,CA30,200,...,    Supplements to wages and salaries,70124
+6043,"Mariposa, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,56133
+6043,"Mariposa, CA",8,CA30,202,...,      Employer contributions for government social insurance,13991
+6043,"Mariposa, CA",8,CA30,210,...,    Proprietors' income,56027
+6043,"Mariposa, CA",8,CA30,220,...,      Farm proprietors' income,5426
+6043,"Mariposa, CA",8,CA30,230,...,      Nonfarm proprietors' income,50601
+6043,"Mariposa, CA",8,CA30,240,...,Total employment (number of jobs),8326
+6043,"Mariposa, CA",8,CA30,250,...,  Wage and salary employment,5482
+6043,"Mariposa, CA",8,CA30,260,...,  Proprietors employment,2844
+6043,"Mariposa, CA",8,CA30,270,...,    Farm proprietors employment 6/,312
+6043,"Mariposa, CA",8,CA30,280,...,    Nonfarm proprietors employment,2532
+6043,"Mariposa, CA",8,CA30,290,...,Average earnings per job (dollars),38302
+6043,"Mariposa, CA",8,CA30,300,...,  Average wages and salaries,35161
+6043,"Mariposa, CA",8,CA30,310,...,  Average nonfarm proprietors' income,19985
+6045,"Mendocino, CA",8,CA30,10,...,Personal income (thousands of dollars),3474746
+6045,"Mendocino, CA",8,CA30,45,...,  Net earnings by place of residence,1691554
+6045,"Mendocino, CA",8,CA30,50,...,  Personal current transfer receipts,946680
+6045,"Mendocino, CA",8,CA30,60,...,    Income maintenance benefits 1/,95085
+6045,"Mendocino, CA",8,CA30,70,...,    Unemployment insurance compensation,13356
+6045,"Mendocino, CA",8,CA30,80,...,    Retirement and other,838239
+6045,"Mendocino, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",836512
+6045,"Mendocino, CA",8,CA30,100,...,  Population (persons) 3/,87869
+6045,"Mendocino, CA",8,CA30,110,...,  Per capita personal income 4/,39545
+6045,"Mendocino, CA",8,CA30,120,...,  Per capita net earnings 4/,19251
+6045,"Mendocino, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10774
+6045,"Mendocino, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1082
+6045,"Mendocino, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,152
+6045,"Mendocino, CA",8,CA30,160,...,    Per capita retirement and other 4/,9540
+6045,"Mendocino, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9520
+6045,"Mendocino, CA",8,CA30,180,...,  Earnings by place of work,1929759
+6045,"Mendocino, CA",8,CA30,190,...,    Wages and salaries,1187465
+6045,"Mendocino, CA",8,CA30,200,...,    Supplements to wages and salaries,380845
+6045,"Mendocino, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,295536
+6045,"Mendocino, CA",8,CA30,202,...,      Employer contributions for government social insurance,85309
+6045,"Mendocino, CA",8,CA30,210,...,    Proprietors' income,361449
+6045,"Mendocino, CA",8,CA30,220,...,      Farm proprietors' income,33733
+6045,"Mendocino, CA",8,CA30,230,...,      Nonfarm proprietors' income,327716
+6045,"Mendocino, CA",8,CA30,240,...,Total employment (number of jobs),50120
+6045,"Mendocino, CA",8,CA30,250,...,  Wage and salary employment,33117
+6045,"Mendocino, CA",8,CA30,260,...,  Proprietors employment,17003
+6045,"Mendocino, CA",8,CA30,270,...,    Farm proprietors employment 6/,1014
+6045,"Mendocino, CA",8,CA30,280,...,    Nonfarm proprietors employment,15989
+6045,"Mendocino, CA",8,CA30,290,...,Average earnings per job (dollars),38503
+6045,"Mendocino, CA",8,CA30,300,...,  Average wages and salaries,35857
+6045,"Mendocino, CA",8,CA30,310,...,  Average nonfarm proprietors' income,20496
+6047,"Merced, CA",8,CA30,10,...,Personal income (thousands of dollars),9020129
+6047,"Merced, CA",8,CA30,45,...,  Net earnings by place of residence,5582568
+6047,"Merced, CA",8,CA30,50,...,  Personal current transfer receipts,2215670
+6047,"Merced, CA",8,CA30,60,...,    Income maintenance benefits 1/,351190
+6047,"Merced, CA",8,CA30,70,...,    Unemployment insurance compensation,68421
+6047,"Merced, CA",8,CA30,80,...,    Retirement and other,1796059
+6047,"Merced, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1221891
+6047,"Merced, CA",8,CA30,100,...,  Population (persons) 3/,266353
+6047,"Merced, CA",8,CA30,110,...,  Per capita personal income 4/,33865
+6047,"Merced, CA",8,CA30,120,...,  Per capita net earnings 4/,20959
+6047,"Merced, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8319
+6047,"Merced, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1319
+6047,"Merced, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,257
+6047,"Merced, CA",8,CA30,160,...,    Per capita retirement and other 4/,6743
+6047,"Merced, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",4587
+6047,"Merced, CA",8,CA30,180,...,  Earnings by place of work,5526434
+6047,"Merced, CA",8,CA30,190,...,    Wages and salaries,2949332
+6047,"Merced, CA",8,CA30,200,...,    Supplements to wages and salaries,998544
+6047,"Merced, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,790035
+6047,"Merced, CA",8,CA30,202,...,      Employer contributions for government social insurance,208509
+6047,"Merced, CA",8,CA30,210,...,    Proprietors' income,1578558
+6047,"Merced, CA",8,CA30,220,...,      Farm proprietors' income,982258
+6047,"Merced, CA",8,CA30,230,...,      Nonfarm proprietors' income,596300
+6047,"Merced, CA",8,CA30,240,...,Total employment (number of jobs),100466
+6047,"Merced, CA",8,CA30,250,...,  Wage and salary employment,78570
+6047,"Merced, CA",8,CA30,260,...,  Proprietors employment,21896
+6047,"Merced, CA",8,CA30,270,...,    Farm proprietors employment 6/,2074
+6047,"Merced, CA",8,CA30,280,...,    Nonfarm proprietors employment,19822
+6047,"Merced, CA",8,CA30,290,...,Average earnings per job (dollars),55008
+6047,"Merced, CA",8,CA30,300,...,  Average wages and salaries,37538
+6047,"Merced, CA",8,CA30,310,...,  Average nonfarm proprietors' income,30083
+6049,"Modoc, CA",8,CA30,10,...,Personal income (thousands of dollars),365803
+6049,"Modoc, CA",8,CA30,45,...,  Net earnings by place of residence,171224
+6049,"Modoc, CA",8,CA30,50,...,  Personal current transfer receipts,115112
+6049,"Modoc, CA",8,CA30,60,...,    Income maintenance benefits 1/,9999
+6049,"Modoc, CA",8,CA30,70,...,    Unemployment insurance compensation,1556
+6049,"Modoc, CA",8,CA30,80,...,    Retirement and other,103557
+6049,"Modoc, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",79467
+6049,"Modoc, CA",8,CA30,100,...,  Population (persons) 3/,9023
+6049,"Modoc, CA",8,CA30,110,...,  Per capita personal income 4/,40541
+6049,"Modoc, CA",8,CA30,120,...,  Per capita net earnings 4/,18976
+6049,"Modoc, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,12758
+6049,"Modoc, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1108
+6049,"Modoc, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,172
+6049,"Modoc, CA",8,CA30,160,...,    Per capita retirement and other 4/,11477
+6049,"Modoc, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8807
+6049,"Modoc, CA",8,CA30,180,...,  Earnings by place of work,184100
+6049,"Modoc, CA",8,CA30,190,...,    Wages and salaries,95670
+6049,"Modoc, CA",8,CA30,200,...,    Supplements to wages and salaries,40003
+6049,"Modoc, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,33311
+6049,"Modoc, CA",8,CA30,202,...,      Employer contributions for government social insurance,6692
+6049,"Modoc, CA",8,CA30,210,...,    Proprietors' income,48427
+6049,"Modoc, CA",8,CA30,220,...,      Farm proprietors' income,26549
+6049,"Modoc, CA",8,CA30,230,...,      Nonfarm proprietors' income,21878
+6049,"Modoc, CA",8,CA30,240,...,Total employment (number of jobs),4523
+6049,"Modoc, CA",8,CA30,250,...,  Wage and salary employment,2733
+6049,"Modoc, CA",8,CA30,260,...,  Proprietors employment,1790
+6049,"Modoc, CA",8,CA30,270,...,    Farm proprietors employment 6/,353
+6049,"Modoc, CA",8,CA30,280,...,    Nonfarm proprietors employment,1437
+6049,"Modoc, CA",8,CA30,290,...,Average earnings per job (dollars),40703
+6049,"Modoc, CA",8,CA30,300,...,  Average wages and salaries,35005
+6049,"Modoc, CA",8,CA30,310,...,  Average nonfarm proprietors' income,15225
+6051,"Mono, CA",8,CA30,10,...,Personal income (thousands of dollars),607438
+6051,"Mono, CA",8,CA30,45,...,  Net earnings by place of residence,360138
+6051,"Mono, CA",8,CA30,50,...,  Personal current transfer receipts,66521
+6051,"Mono, CA",8,CA30,60,...,    Income maintenance benefits 1/,6074
+6051,"Mono, CA",8,CA30,70,...,    Unemployment insurance compensation,3764
+6051,"Mono, CA",8,CA30,80,...,    Retirement and other,56683
+6051,"Mono, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",180779
+6051,"Mono, CA",8,CA30,100,...,  Population (persons) 3/,13997
+6051,"Mono, CA",8,CA30,110,...,  Per capita personal income 4/,43398
+6051,"Mono, CA",8,CA30,120,...,  Per capita net earnings 4/,25730
+6051,"Mono, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,4753
+6051,"Mono, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,434
+6051,"Mono, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,269
+6051,"Mono, CA",8,CA30,160,...,    Per capita retirement and other 4/,4050
+6051,"Mono, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",12916
+6051,"Mono, CA",8,CA30,180,...,  Earnings by place of work,422556
+6051,"Mono, CA",8,CA30,190,...,    Wages and salaries,264437
+6051,"Mono, CA",8,CA30,200,...,    Supplements to wages and salaries,85610
+6051,"Mono, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,66413
+6051,"Mono, CA",8,CA30,202,...,      Employer contributions for government social insurance,19197
+6051,"Mono, CA",8,CA30,210,...,    Proprietors' income,72509
+6051,"Mono, CA",8,CA30,220,...,      Farm proprietors' income,14147
+6051,"Mono, CA",8,CA30,230,...,      Nonfarm proprietors' income,58362
+6051,"Mono, CA",8,CA30,240,...,Total employment (number of jobs),9662
+6051,"Mono, CA",8,CA30,250,...,  Wage and salary employment,6976
+6051,"Mono, CA",8,CA30,260,...,  Proprietors employment,2686
+6051,"Mono, CA",8,CA30,270,...,    Farm proprietors employment 6/,60
+6051,"Mono, CA",8,CA30,280,...,    Nonfarm proprietors employment,2626
+6051,"Mono, CA",8,CA30,290,...,Average earnings per job (dollars),43734
+6051,"Mono, CA",8,CA30,300,...,  Average wages and salaries,37907
+6051,"Mono, CA",8,CA30,310,...,  Average nonfarm proprietors' income,22225
+6053,"Monterey, CA",8,CA30,10,...,Personal income (thousands of dollars),19889054
+6053,"Monterey, CA",8,CA30,45,...,  Net earnings by place of residence,12399645
+6053,"Monterey, CA",8,CA30,50,...,  Personal current transfer receipts,2947370
+6053,"Monterey, CA",8,CA30,60,...,    Income maintenance benefits 1/,365670
+6053,"Monterey, CA",8,CA30,70,...,    Unemployment insurance compensation,118430
+6053,"Monterey, CA",8,CA30,80,...,    Retirement and other,2463270
+6053,"Monterey, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",4542039
+6053,"Monterey, CA",8,CA30,100,...,  Population (persons) 3/,431344
+6053,"Monterey, CA",8,CA30,110,...,  Per capita personal income 4/,46109
+6053,"Monterey, CA",8,CA30,120,...,  Per capita net earnings 4/,28747
+6053,"Monterey, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6833
+6053,"Monterey, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,848
+6053,"Monterey, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,275
+6053,"Monterey, CA",8,CA30,160,...,    Per capita retirement and other 4/,5711
+6053,"Monterey, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10530
+6053,"Monterey, CA",8,CA30,180,...,  Earnings by place of work,13655717
+6053,"Monterey, CA",8,CA30,190,...,    Wages and salaries,8548933
+6053,"Monterey, CA",8,CA30,200,...,    Supplements to wages and salaries,2520218
+6053,"Monterey, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1876626
+6053,"Monterey, CA",8,CA30,202,...,      Employer contributions for government social insurance,643592
+6053,"Monterey, CA",8,CA30,210,...,    Proprietors' income,2586566
+6053,"Monterey, CA",8,CA30,220,...,      Farm proprietors' income,1007606
+6053,"Monterey, CA",8,CA30,230,...,      Nonfarm proprietors' income,1578960
+6053,"Monterey, CA",8,CA30,240,...,Total employment (number of jobs),240804
+6053,"Monterey, CA",8,CA30,250,...,  Wage and salary employment,193953
+6053,"Monterey, CA",8,CA30,260,...,  Proprietors employment,46851
+6053,"Monterey, CA",8,CA30,270,...,    Farm proprietors employment 6/,901
+6053,"Monterey, CA",8,CA30,280,...,    Nonfarm proprietors employment,45950
+6053,"Monterey, CA",8,CA30,290,...,Average earnings per job (dollars),56709
+6053,"Monterey, CA",8,CA30,300,...,  Average wages and salaries,44077
+6053,"Monterey, CA",8,CA30,310,...,  Average nonfarm proprietors' income,34363
+6055,"Napa, CA",8,CA30,10,...,Personal income (thousands of dollars),7734502
+6055,"Napa, CA",8,CA30,45,...,  Net earnings by place of residence,4739349
+6055,"Napa, CA",8,CA30,50,...,  Personal current transfer receipts,1084435
+6055,"Napa, CA",8,CA30,60,...,    Income maintenance benefits 1/,66417
+6055,"Napa, CA",8,CA30,70,...,    Unemployment insurance compensation,21968
+6055,"Napa, CA",8,CA30,80,...,    Retirement and other,996050
+6055,"Napa, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1910718
+6055,"Napa, CA",8,CA30,100,...,  Population (persons) 3/,141667
+6055,"Napa, CA",8,CA30,110,...,  Per capita personal income 4/,54596
+6055,"Napa, CA",8,CA30,120,...,  Per capita net earnings 4/,33454
+6055,"Napa, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7655
+6055,"Napa, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,469
+6055,"Napa, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,155
+6055,"Napa, CA",8,CA30,160,...,    Per capita retirement and other 4/,7031
+6055,"Napa, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",13487
+6055,"Napa, CA",8,CA30,180,...,  Earnings by place of work,5603991
+6055,"Napa, CA",8,CA30,190,...,    Wages and salaries,3779048
+6055,"Napa, CA",8,CA30,200,...,    Supplements to wages and salaries,1051824
+6055,"Napa, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,774108
+6055,"Napa, CA",8,CA30,202,...,      Employer contributions for government social insurance,277716
+6055,"Napa, CA",8,CA30,210,...,    Proprietors' income,773119
+6055,"Napa, CA",8,CA30,220,...,      Farm proprietors' income,37269
+6055,"Napa, CA",8,CA30,230,...,      Nonfarm proprietors' income,735850
+6055,"Napa, CA",8,CA30,240,...,Total employment (number of jobs),99435
+6055,"Napa, CA",8,CA30,250,...,  Wage and salary employment,76329
+6055,"Napa, CA",8,CA30,260,...,  Proprietors employment,23106
+6055,"Napa, CA",8,CA30,270,...,    Farm proprietors employment 6/,1245
+6055,"Napa, CA",8,CA30,280,...,    Nonfarm proprietors employment,21861
+6055,"Napa, CA",8,CA30,290,...,Average earnings per job (dollars),56358
+6055,"Napa, CA",8,CA30,300,...,  Average wages and salaries,49510
+6055,"Napa, CA",8,CA30,310,...,  Average nonfarm proprietors' income,33660
+6057,"Nevada, CA",8,CA30,10,...,Personal income (thousands of dollars),4975533
+6057,"Nevada, CA",8,CA30,45,...,  Net earnings by place of residence,2798975
+6057,"Nevada, CA",8,CA30,50,...,  Personal current transfer receipts,940721
+6057,"Nevada, CA",8,CA30,60,...,    Income maintenance benefits 1/,53111
+6057,"Nevada, CA",8,CA30,70,...,    Unemployment insurance compensation,15096
+6057,"Nevada, CA",8,CA30,80,...,    Retirement and other,872514
+6057,"Nevada, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1235837
+6057,"Nevada, CA",8,CA30,100,...,  Population (persons) 3/,98893
+6057,"Nevada, CA",8,CA30,110,...,  Per capita personal income 4/,50312
+6057,"Nevada, CA",8,CA30,120,...,  Per capita net earnings 4/,28303
+6057,"Nevada, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9513
+6057,"Nevada, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,537
+6057,"Nevada, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,153
+6057,"Nevada, CA",8,CA30,160,...,    Per capita retirement and other 4/,8823
+6057,"Nevada, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",12497
+6057,"Nevada, CA",8,CA30,180,...,  Earnings by place of work,2197390
+6057,"Nevada, CA",8,CA30,190,...,    Wages and salaries,1297536
+6057,"Nevada, CA",8,CA30,200,...,    Supplements to wages and salaries,375243
+6057,"Nevada, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,280925
+6057,"Nevada, CA",8,CA30,202,...,      Employer contributions for government social insurance,94318
+6057,"Nevada, CA",8,CA30,210,...,    Proprietors' income,524611
+6057,"Nevada, CA",8,CA30,220,...,      Farm proprietors' income,-2332
+6057,"Nevada, CA",8,CA30,230,...,      Nonfarm proprietors' income,526943
+6057,"Nevada, CA",8,CA30,240,...,Total employment (number of jobs),57307
+6057,"Nevada, CA",8,CA30,250,...,  Wage and salary employment,31006
+6057,"Nevada, CA",8,CA30,260,...,  Proprietors employment,26301
+6057,"Nevada, CA",8,CA30,270,...,    Farm proprietors employment 6/,650
+6057,"Nevada, CA",8,CA30,280,...,    Nonfarm proprietors employment,25651
+6057,"Nevada, CA",8,CA30,290,...,Average earnings per job (dollars),38344
+6057,"Nevada, CA",8,CA30,300,...,  Average wages and salaries,41848
+6057,"Nevada, CA",8,CA30,310,...,  Average nonfarm proprietors' income,20543
+6059,"Orange, CA",8,CA30,10,...,Personal income (thousands of dollars),173305650
+6059,"Orange, CA",8,CA30,45,...,  Net earnings by place of residence,117297208
+6059,"Orange, CA",8,CA30,50,...,  Personal current transfer receipts,19856067
+6059,"Orange, CA",8,CA30,60,...,    Income maintenance benefits 1/,1962201
+6059,"Orange, CA",8,CA30,70,...,    Unemployment insurance compensation,401958
+6059,"Orange, CA",8,CA30,80,...,    Retirement and other,17491908
+6059,"Orange, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",36152375
+6059,"Orange, CA",8,CA30,100,...,  Population (persons) 3/,3145515
+6059,"Orange, CA",8,CA30,110,...,  Per capita personal income 4/,55096
+6059,"Orange, CA",8,CA30,120,...,  Per capita net earnings 4/,37290
+6059,"Orange, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6313
+6059,"Orange, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,624
+6059,"Orange, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,128
+6059,"Orange, CA",8,CA30,160,...,    Per capita retirement and other 4/,5561
+6059,"Orange, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",11493
+6059,"Orange, CA",8,CA30,180,...,  Earnings by place of work,130736338
+6059,"Orange, CA",8,CA30,190,...,    Wages and salaries,91763034
+6059,"Orange, CA",8,CA30,200,...,    Supplements to wages and salaries,20477204
+6059,"Orange, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,13918387
+6059,"Orange, CA",8,CA30,202,...,      Employer contributions for government social insurance,6558817
+6059,"Orange, CA",8,CA30,210,...,    Proprietors' income,18496100
+6059,"Orange, CA",8,CA30,220,...,      Farm proprietors' income,-4696
+6059,"Orange, CA",8,CA30,230,...,      Nonfarm proprietors' income,18500796
+6059,"Orange, CA",8,CA30,240,...,Total employment (number of jobs),2069949
+6059,"Orange, CA",8,CA30,250,...,  Wage and salary employment,1580157
+6059,"Orange, CA",8,CA30,260,...,  Proprietors employment,489792
+6059,"Orange, CA",8,CA30,270,...,    Farm proprietors employment 6/,224
+6059,"Orange, CA",8,CA30,280,...,    Nonfarm proprietors employment,489568
+6059,"Orange, CA",8,CA30,290,...,Average earnings per job (dollars),63159
+6059,"Orange, CA",8,CA30,300,...,  Average wages and salaries,58072
+6059,"Orange, CA",8,CA30,310,...,  Average nonfarm proprietors' income,37790
+6061,"Placer, CA",8,CA30,10,...,Personal income (thousands of dollars),20228856
+6061,"Placer, CA",8,CA30,45,...,  Net earnings by place of residence,13831858
+6061,"Placer, CA",8,CA30,50,...,  Personal current transfer receipts,2765491
+6061,"Placer, CA",8,CA30,60,...,    Income maintenance benefits 1/,148964
+6061,"Placer, CA",8,CA30,70,...,    Unemployment insurance compensation,51583
+6061,"Placer, CA",8,CA30,80,...,    Retirement and other,2564944
+6061,"Placer, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",3631507
+6061,"Placer, CA",8,CA30,100,...,  Population (persons) 3/,371694
+6061,"Placer, CA",8,CA30,110,...,  Per capita personal income 4/,54423
+6061,"Placer, CA",8,CA30,120,...,  Per capita net earnings 4/,37213
+6061,"Placer, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7440
+6061,"Placer, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,401
+6061,"Placer, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,139
+6061,"Placer, CA",8,CA30,160,...,    Per capita retirement and other 4/,6901
+6061,"Placer, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9770
+6061,"Placer, CA",8,CA30,180,...,  Earnings by place of work,11077457
+6061,"Placer, CA",8,CA30,190,...,    Wages and salaries,7855517
+6061,"Placer, CA",8,CA30,200,...,    Supplements to wages and salaries,1849443
+6061,"Placer, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1268008
+6061,"Placer, CA",8,CA30,202,...,      Employer contributions for government social insurance,581435
+6061,"Placer, CA",8,CA30,210,...,    Proprietors' income,1372497
+6061,"Placer, CA",8,CA30,220,...,      Farm proprietors' income,-15292
+6061,"Placer, CA",8,CA30,230,...,      Nonfarm proprietors' income,1387789
+6061,"Placer, CA",8,CA30,240,...,Total employment (number of jobs),202549
+6061,"Placer, CA",8,CA30,250,...,  Wage and salary employment,152250
+6061,"Placer, CA",8,CA30,260,...,  Proprietors employment,50299
+6061,"Placer, CA",8,CA30,270,...,    Farm proprietors employment 6/,1171
+6061,"Placer, CA",8,CA30,280,...,    Nonfarm proprietors employment,49128
+6061,"Placer, CA",8,CA30,290,...,Average earnings per job (dollars),54690
+6061,"Placer, CA",8,CA30,300,...,  Average wages and salaries,51596
+6061,"Placer, CA",8,CA30,310,...,  Average nonfarm proprietors' income,28248
+6063,"Plumas, CA",8,CA30,10,...,Personal income (thousands of dollars),847586
+6063,"Plumas, CA",8,CA30,45,...,  Net earnings by place of residence,382275
+6063,"Plumas, CA",8,CA30,50,...,  Personal current transfer receipts,236697
+6063,"Plumas, CA",8,CA30,60,...,    Income maintenance benefits 1/,15312
+6063,"Plumas, CA",8,CA30,70,...,    Unemployment insurance compensation,5019
+6063,"Plumas, CA",8,CA30,80,...,    Retirement and other,216366
+6063,"Plumas, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",228614
+6063,"Plumas, CA",8,CA30,100,...,  Population (persons) 3/,18606
+6063,"Plumas, CA",8,CA30,110,...,  Per capita personal income 4/,45554
+6063,"Plumas, CA",8,CA30,120,...,  Per capita net earnings 4/,20546
+6063,"Plumas, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,12722
+6063,"Plumas, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,823
+6063,"Plumas, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,270
+6063,"Plumas, CA",8,CA30,160,...,    Per capita retirement and other 4/,11629
+6063,"Plumas, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",12287
+6063,"Plumas, CA",8,CA30,180,...,  Earnings by place of work,431700
+6063,"Plumas, CA",8,CA30,190,...,    Wages and salaries,261521
+6063,"Plumas, CA",8,CA30,200,...,    Supplements to wages and salaries,99214
+6063,"Plumas, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,80011
+6063,"Plumas, CA",8,CA30,202,...,      Employer contributions for government social insurance,19203
+6063,"Plumas, CA",8,CA30,210,...,    Proprietors' income,70965
+6063,"Plumas, CA",8,CA30,220,...,      Farm proprietors' income,3458
+6063,"Plumas, CA",8,CA30,230,...,      Nonfarm proprietors' income,67507
+6063,"Plumas, CA",8,CA30,240,...,Total employment (number of jobs),9440
+6063,"Plumas, CA",8,CA30,250,...,  Wage and salary employment,6433
+6063,"Plumas, CA",8,CA30,260,...,  Proprietors employment,3007
+6063,"Plumas, CA",8,CA30,270,...,    Farm proprietors employment 6/,104
+6063,"Plumas, CA",8,CA30,280,...,    Nonfarm proprietors employment,2903
+6063,"Plumas, CA",8,CA30,290,...,Average earnings per job (dollars),45731
+6063,"Plumas, CA",8,CA30,300,...,  Average wages and salaries,40653
+6063,"Plumas, CA",8,CA30,310,...,  Average nonfarm proprietors' income,23254
+6065,"Riverside, CA",8,CA30,10,...,Personal income (thousands of dollars),78239388
+6065,"Riverside, CA",8,CA30,45,...,  Net earnings by place of residence,50361961
+6065,"Riverside, CA",8,CA30,50,...,  Personal current transfer receipts,15569519
+6065,"Riverside, CA",8,CA30,60,...,    Income maintenance benefits 1/,1980039
+6065,"Riverside, CA",8,CA30,70,...,    Unemployment insurance compensation,357790
+6065,"Riverside, CA",8,CA30,80,...,    Retirement and other,13231690
+6065,"Riverside, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",12307908
+6065,"Riverside, CA",8,CA30,100,...,  Population (persons) 3/,2329271
+6065,"Riverside, CA",8,CA30,110,...,  Per capita personal income 4/,33590
+6065,"Riverside, CA",8,CA30,120,...,  Per capita net earnings 4/,21621
+6065,"Riverside, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6684
+6065,"Riverside, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,850
+6065,"Riverside, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,154
+6065,"Riverside, CA",8,CA30,160,...,    Per capita retirement and other 4/,5681
+6065,"Riverside, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5284
+6065,"Riverside, CA",8,CA30,180,...,  Earnings by place of work,41835205
+6065,"Riverside, CA",8,CA30,190,...,    Wages and salaries,27939763
+6065,"Riverside, CA",8,CA30,200,...,    Supplements to wages and salaries,8200183
+6065,"Riverside, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,6186190
+6065,"Riverside, CA",8,CA30,202,...,      Employer contributions for government social insurance,2013993
+6065,"Riverside, CA",8,CA30,210,...,    Proprietors' income,5695259
+6065,"Riverside, CA",8,CA30,220,...,      Farm proprietors' income,156677
+6065,"Riverside, CA",8,CA30,230,...,      Nonfarm proprietors' income,5538582
+6065,"Riverside, CA",8,CA30,240,...,Total employment (number of jobs),941386
+6065,"Riverside, CA",8,CA30,250,...,  Wage and salary employment,672782
+6065,"Riverside, CA",8,CA30,260,...,  Proprietors employment,268604
+6065,"Riverside, CA",8,CA30,270,...,    Farm proprietors employment 6/,2360
+6065,"Riverside, CA",8,CA30,280,...,    Nonfarm proprietors employment,266244
+6065,"Riverside, CA",8,CA30,290,...,Average earnings per job (dollars),44440
+6065,"Riverside, CA",8,CA30,300,...,  Average wages and salaries,41529
+6065,"Riverside, CA",8,CA30,310,...,  Average nonfarm proprietors' income,20803
+6067,"Sacramento, CA",8,CA30,10,...,Personal income (thousands of dollars),65126187
+6067,"Sacramento, CA",8,CA30,45,...,  Net earnings by place of residence,41530545
+6067,"Sacramento, CA",8,CA30,50,...,  Personal current transfer receipts,12896280
+6067,"Sacramento, CA",8,CA30,60,...,    Income maintenance benefits 1/,1628791
+6067,"Sacramento, CA",8,CA30,70,...,    Unemployment insurance compensation,225899
+6067,"Sacramento, CA",8,CA30,80,...,    Retirement and other,11041590
+6067,"Sacramento, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",10699362
+6067,"Sacramento, CA",8,CA30,100,...,  Population (persons) 3/,1482026
+6067,"Sacramento, CA",8,CA30,110,...,  Per capita personal income 4/,43944
+6067,"Sacramento, CA",8,CA30,120,...,  Per capita net earnings 4/,28023
+6067,"Sacramento, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8702
+6067,"Sacramento, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1099
+6067,"Sacramento, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,152
+6067,"Sacramento, CA",8,CA30,160,...,    Per capita retirement and other 4/,7450
+6067,"Sacramento, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",7219
+6067,"Sacramento, CA",8,CA30,180,...,  Earnings by place of work,53033135
+6067,"Sacramento, CA",8,CA30,190,...,    Wages and salaries,36854177
+6067,"Sacramento, CA",8,CA30,200,...,    Supplements to wages and salaries,11600803
+6067,"Sacramento, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,9259478
+6067,"Sacramento, CA",8,CA30,202,...,      Employer contributions for government social insurance,2341325
+6067,"Sacramento, CA",8,CA30,210,...,    Proprietors' income,4578155
+6067,"Sacramento, CA",8,CA30,220,...,      Farm proprietors' income,18652
+6067,"Sacramento, CA",8,CA30,230,...,      Nonfarm proprietors' income,4559503
+6067,"Sacramento, CA",8,CA30,240,...,Total employment (number of jobs),830627
+6067,"Sacramento, CA",8,CA30,250,...,  Wage and salary employment,654363
+6067,"Sacramento, CA",8,CA30,260,...,  Proprietors employment,176264
+6067,"Sacramento, CA",8,CA30,270,...,    Farm proprietors employment 6/,1130
+6067,"Sacramento, CA",8,CA30,280,...,    Nonfarm proprietors employment,175134
+6067,"Sacramento, CA",8,CA30,290,...,Average earnings per job (dollars),63847
+6067,"Sacramento, CA",8,CA30,300,...,  Average wages and salaries,56321
+6067,"Sacramento, CA",8,CA30,310,...,  Average nonfarm proprietors' income,26034
+6069,"San Benito, CA",8,CA30,10,...,Personal income (thousands of dollars),2417263
+6069,"San Benito, CA",8,CA30,45,...,  Net earnings by place of residence,1685418
+6069,"San Benito, CA",8,CA30,50,...,  Personal current transfer receipts,355734
+6069,"San Benito, CA",8,CA30,60,...,    Income maintenance benefits 1/,39689
+6069,"San Benito, CA",8,CA30,70,...,    Unemployment insurance compensation,12903
+6069,"San Benito, CA",8,CA30,80,...,    Retirement and other,303142
+6069,"San Benito, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",376111
+6069,"San Benito, CA",8,CA30,100,...,  Population (persons) 3/,58267
+6069,"San Benito, CA",8,CA30,110,...,  Per capita personal income 4/,41486
+6069,"San Benito, CA",8,CA30,120,...,  Per capita net earnings 4/,28926
+6069,"San Benito, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6105
+6069,"San Benito, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,681
+6069,"San Benito, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,221
+6069,"San Benito, CA",8,CA30,160,...,    Per capita retirement and other 4/,5203
+6069,"San Benito, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6455
+6069,"San Benito, CA",8,CA30,180,...,  Earnings by place of work,1163063
+6069,"San Benito, CA",8,CA30,190,...,    Wages and salaries,704085
+6069,"San Benito, CA",8,CA30,200,...,    Supplements to wages and salaries,213949
+6069,"San Benito, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,162339
+6069,"San Benito, CA",8,CA30,202,...,      Employer contributions for government social insurance,51610
+6069,"San Benito, CA",8,CA30,210,...,    Proprietors' income,245029
+6069,"San Benito, CA",8,CA30,220,...,      Farm proprietors' income,68898
+6069,"San Benito, CA",8,CA30,230,...,      Nonfarm proprietors' income,176131
+6069,"San Benito, CA",8,CA30,240,...,Total employment (number of jobs),23165
+6069,"San Benito, CA",8,CA30,250,...,  Wage and salary employment,16688
+6069,"San Benito, CA",8,CA30,260,...,  Proprietors employment,6477
+6069,"San Benito, CA",8,CA30,270,...,    Farm proprietors employment 6/,530
+6069,"San Benito, CA",8,CA30,280,...,    Nonfarm proprietors employment,5947
+6069,"San Benito, CA",8,CA30,290,...,Average earnings per job (dollars),50208
+6069,"San Benito, CA",8,CA30,300,...,  Average wages and salaries,42191
+6069,"San Benito, CA",8,CA30,310,...,  Average nonfarm proprietors' income,29617
+6071,"San Bernardino, CA",8,CA30,10,...,Personal income (thousands of dollars),69487877
+6071,"San Bernardino, CA",8,CA30,45,...,  Net earnings by place of residence,44263203
+6071,"San Bernardino, CA",8,CA30,50,...,  Personal current transfer receipts,15030445
+6071,"San Bernardino, CA",8,CA30,60,...,    Income maintenance benefits 1/,2443548
+6071,"San Bernardino, CA",8,CA30,70,...,    Unemployment insurance compensation,298253
+6071,"San Bernardino, CA",8,CA30,80,...,    Retirement and other,12288644
+6071,"San Bernardino, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",10194229
+6071,"San Bernardino, CA",8,CA30,100,...,  Population (persons) 3/,2112619
+6071,"San Bernardino, CA",8,CA30,110,...,  Per capita personal income 4/,32892
+6071,"San Bernardino, CA",8,CA30,120,...,  Per capita net earnings 4/,20952
+6071,"San Bernardino, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7115
+6071,"San Bernardino, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1157
+6071,"San Bernardino, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,141
+6071,"San Bernardino, CA",8,CA30,160,...,    Per capita retirement and other 4/,5817
+6071,"San Bernardino, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",4825
+6071,"San Bernardino, CA",8,CA30,180,...,  Earnings by place of work,44631495
+6071,"San Bernardino, CA",8,CA30,190,...,    Wages and salaries,31457185
+6071,"San Bernardino, CA",8,CA30,200,...,    Supplements to wages and salaries,9055505
+6071,"San Bernardino, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,6706018
+6071,"San Bernardino, CA",8,CA30,202,...,      Employer contributions for government social insurance,2349487
+6071,"San Bernardino, CA",8,CA30,210,...,    Proprietors' income,4118805
+6071,"San Bernardino, CA",8,CA30,220,...,      Farm proprietors' income,90279
+6071,"San Bernardino, CA",8,CA30,230,...,      Nonfarm proprietors' income,4028526
+6071,"San Bernardino, CA",8,CA30,240,...,Total employment (number of jobs),924916
+6071,"San Bernardino, CA",8,CA30,250,...,  Wage and salary employment,717428
+6071,"San Bernardino, CA",8,CA30,260,...,  Proprietors employment,207488
+6071,"San Bernardino, CA",8,CA30,270,...,    Farm proprietors employment 6/,1045
+6071,"San Bernardino, CA",8,CA30,280,...,    Nonfarm proprietors employment,206443
+6071,"San Bernardino, CA",8,CA30,290,...,Average earnings per job (dollars),48255
+6071,"San Bernardino, CA",8,CA30,300,...,  Average wages and salaries,43847
+6071,"San Bernardino, CA",8,CA30,310,...,  Average nonfarm proprietors' income,19514
+6073,"San Diego, CA",8,CA30,10,...,Personal income (thousands of dollars),167931419
+6073,"San Diego, CA",8,CA30,45,...,  Net earnings by place of residence,108174810
+6073,"San Diego, CA",8,CA30,50,...,  Personal current transfer receipts,23538626
+6073,"San Diego, CA",8,CA30,60,...,    Income maintenance benefits 1/,2252218
+6073,"San Diego, CA",8,CA30,70,...,    Unemployment insurance compensation,490818
+6073,"San Diego, CA",8,CA30,80,...,    Retirement and other,20795590
+6073,"San Diego, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",36217983
+6073,"San Diego, CA",8,CA30,100,...,  Population (persons) 3/,3263431
+6073,"San Diego, CA",8,CA30,110,...,  Per capita personal income 4/,51459
+6073,"San Diego, CA",8,CA30,120,...,  Per capita net earnings 4/,33148
+6073,"San Diego, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7213
+6073,"San Diego, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,690
+6073,"San Diego, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,150
+6073,"San Diego, CA",8,CA30,160,...,    Per capita retirement and other 4/,6372
+6073,"San Diego, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",11098
+6073,"San Diego, CA",8,CA30,180,...,  Earnings by place of work,123619488
+6073,"San Diego, CA",8,CA30,190,...,    Wages and salaries,87582371
+6073,"San Diego, CA",8,CA30,200,...,    Supplements to wages and salaries,22346872
+6073,"San Diego, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,16051089
+6073,"San Diego, CA",8,CA30,202,...,      Employer contributions for government social insurance,6295783
+6073,"San Diego, CA",8,CA30,210,...,    Proprietors' income,13690245
+6073,"San Diego, CA",8,CA30,220,...,      Farm proprietors' income,102096
+6073,"San Diego, CA",8,CA30,230,...,      Nonfarm proprietors' income,13588149
+6073,"San Diego, CA",8,CA30,240,...,Total employment (number of jobs),1977874
+6073,"San Diego, CA",8,CA30,250,...,  Wage and salary employment,1524766
+6073,"San Diego, CA",8,CA30,260,...,  Proprietors employment,453108
+6073,"San Diego, CA",8,CA30,270,...,    Farm proprietors employment 6/,4659
+6073,"San Diego, CA",8,CA30,280,...,    Nonfarm proprietors employment,448449
+6073,"San Diego, CA",8,CA30,290,...,Average earnings per job (dollars),62501
+6073,"San Diego, CA",8,CA30,300,...,  Average wages and salaries,57440
+6073,"San Diego, CA",8,CA30,310,...,  Average nonfarm proprietors' income,30300
+6075,"San Francisco, CA",8,CA30,10,...,Personal income (thousands of dollars),77233279
+6075,"San Francisco, CA",8,CA30,45,...,  Net earnings by place of residence,52313814
+6075,"San Francisco, CA",8,CA30,50,...,  Personal current transfer receipts,6661446
+6075,"San Francisco, CA",8,CA30,60,...,    Income maintenance benefits 1/,687848
+6075,"San Francisco, CA",8,CA30,70,...,    Unemployment insurance compensation,125309
+6075,"San Francisco, CA",8,CA30,80,...,    Retirement and other,5848289
+6075,"San Francisco, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",18258019
+6075,"San Francisco, CA",8,CA30,100,...,  Population (persons) 3/,852469
+6075,"San Francisco, CA",8,CA30,110,...,  Per capita personal income 4/,90600
+6075,"San Francisco, CA",8,CA30,120,...,  Per capita net earnings 4/,61367
+6075,"San Francisco, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7814
+6075,"San Francisco, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,807
+6075,"San Francisco, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,147
+6075,"San Francisco, CA",8,CA30,160,...,    Per capita retirement and other 4/,6860
+6075,"San Francisco, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",21418
+6075,"San Francisco, CA",8,CA30,180,...,  Earnings by place of work,84706531
+6075,"San Francisco, CA",8,CA30,190,...,    Wages and salaries,63194495
+6075,"San Francisco, CA",8,CA30,200,...,    Supplements to wages and salaries,11987961
+6075,"San Francisco, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,8290474
+6075,"San Francisco, CA",8,CA30,202,...,      Employer contributions for government social insurance,3697487
+6075,"San Francisco, CA",8,CA30,210,...,    Proprietors' income,9524075
+6075,"San Francisco, CA",8,CA30,220,...,      Farm proprietors' income,0
+6075,"San Francisco, CA",8,CA30,230,...,      Nonfarm proprietors' income,9524075
+6075,"San Francisco, CA",8,CA30,240,...,Total employment (number of jobs),854119
+6075,"San Francisco, CA",8,CA30,250,...,  Wage and salary employment,685629
+6075,"San Francisco, CA",8,CA30,260,...,  Proprietors employment,168490
+6075,"San Francisco, CA",8,CA30,270,...,    Farm proprietors employment 6/,0
+6075,"San Francisco, CA",8,CA30,280,...,    Nonfarm proprietors employment,168490
+6075,"San Francisco, CA",8,CA30,290,...,Average earnings per job (dollars),99174
+6075,"San Francisco, CA",8,CA30,300,...,  Average wages and salaries,92170
+6075,"San Francisco, CA",8,CA30,310,...,  Average nonfarm proprietors' income,56526
+6077,"San Joaquin, CA",8,CA30,10,...,Personal income (thousands of dollars),25859136
+6077,"San Joaquin, CA",8,CA30,45,...,  Net earnings by place of residence,15989124
+6077,"San Joaquin, CA",8,CA30,50,...,  Personal current transfer receipts,6128854
+6077,"San Joaquin, CA",8,CA30,60,...,    Income maintenance benefits 1/,813286
+6077,"San Joaquin, CA",8,CA30,70,...,    Unemployment insurance compensation,148446
+6077,"San Joaquin, CA",8,CA30,80,...,    Retirement and other,5167122
+6077,"San Joaquin, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",3741158
+6077,"San Joaquin, CA",8,CA30,100,...,  Population (persons) 3/,715597
+6077,"San Joaquin, CA",8,CA30,110,...,  Per capita personal income 4/,36136
+6077,"San Joaquin, CA",8,CA30,120,...,  Per capita net earnings 4/,22344
+6077,"San Joaquin, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8565
+6077,"San Joaquin, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1137
+6077,"San Joaquin, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,207
+6077,"San Joaquin, CA",8,CA30,160,...,    Per capita retirement and other 4/,7221
+6077,"San Joaquin, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5228
+6077,"San Joaquin, CA",8,CA30,180,...,  Earnings by place of work,15107141
+6077,"San Joaquin, CA",8,CA30,190,...,    Wages and salaries,9918214
+6077,"San Joaquin, CA",8,CA30,200,...,    Supplements to wages and salaries,2870530
+6077,"San Joaquin, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,2136473
+6077,"San Joaquin, CA",8,CA30,202,...,      Employer contributions for government social insurance,734057
+6077,"San Joaquin, CA",8,CA30,210,...,    Proprietors' income,2318397
+6077,"San Joaquin, CA",8,CA30,220,...,      Farm proprietors' income,635818
+6077,"San Joaquin, CA",8,CA30,230,...,      Nonfarm proprietors' income,1682579
+6077,"San Joaquin, CA",8,CA30,240,...,Total employment (number of jobs),294674
+6077,"San Joaquin, CA",8,CA30,250,...,  Wage and salary employment,231035
+6077,"San Joaquin, CA",8,CA30,260,...,  Proprietors employment,63639
+6077,"San Joaquin, CA",8,CA30,270,...,    Farm proprietors employment 6/,2916
+6077,"San Joaquin, CA",8,CA30,280,...,    Nonfarm proprietors employment,60723
+6077,"San Joaquin, CA",8,CA30,290,...,Average earnings per job (dollars),51267
+6077,"San Joaquin, CA",8,CA30,300,...,  Average wages and salaries,42929
+6077,"San Joaquin, CA",8,CA30,310,...,  Average nonfarm proprietors' income,27709
+6079,"San Luis Obispo, CA",8,CA30,10,...,Personal income (thousands of dollars),12823005
+6079,"San Luis Obispo, CA",8,CA30,45,...,  Net earnings by place of residence,7638615
+6079,"San Luis Obispo, CA",8,CA30,50,...,  Personal current transfer receipts,1992838
+6079,"San Luis Obispo, CA",8,CA30,60,...,    Income maintenance benefits 1/,141132
+6079,"San Luis Obispo, CA",8,CA30,70,...,    Unemployment insurance compensation,32253
+6079,"San Luis Obispo, CA",8,CA30,80,...,    Retirement and other,1819453
+6079,"San Luis Obispo, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",3191552
+6079,"San Luis Obispo, CA",8,CA30,100,...,  Population (persons) 3/,279083
+6079,"San Luis Obispo, CA",8,CA30,110,...,  Per capita personal income 4/,45947
+6079,"San Luis Obispo, CA",8,CA30,120,...,  Per capita net earnings 4/,27370
+6079,"San Luis Obispo, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7141
+6079,"San Luis Obispo, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,506
+6079,"San Luis Obispo, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,116
+6079,"San Luis Obispo, CA",8,CA30,160,...,    Per capita retirement and other 4/,6519
+6079,"San Luis Obispo, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",11436
+6079,"San Luis Obispo, CA",8,CA30,180,...,  Earnings by place of work,7829944
+6079,"San Luis Obispo, CA",8,CA30,190,...,    Wages and salaries,4993931
+6079,"San Luis Obispo, CA",8,CA30,200,...,    Supplements to wages and salaries,1515394
+6079,"San Luis Obispo, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1162836
+6079,"San Luis Obispo, CA",8,CA30,202,...,      Employer contributions for government social insurance,352558
+6079,"San Luis Obispo, CA",8,CA30,210,...,    Proprietors' income,1320619
+6079,"San Luis Obispo, CA",8,CA30,220,...,      Farm proprietors' income,178641
+6079,"San Luis Obispo, CA",8,CA30,230,...,      Nonfarm proprietors' income,1141978
+6079,"San Luis Obispo, CA",8,CA30,240,...,Total employment (number of jobs),164042
+6079,"San Luis Obispo, CA",8,CA30,250,...,  Wage and salary employment,117611
+6079,"San Luis Obispo, CA",8,CA30,260,...,  Proprietors employment,46431
+6079,"San Luis Obispo, CA",8,CA30,270,...,    Farm proprietors employment 6/,2083
+6079,"San Luis Obispo, CA",8,CA30,280,...,    Nonfarm proprietors employment,44348
+6079,"San Luis Obispo, CA",8,CA30,290,...,Average earnings per job (dollars),47731
+6079,"San Luis Obispo, CA",8,CA30,300,...,  Average wages and salaries,42461
+6079,"San Luis Obispo, CA",8,CA30,310,...,  Average nonfarm proprietors' income,25750
+6081,"San Mateo, CA",8,CA30,10,...,Personal income (thousands of dollars),68013899
+6081,"San Mateo, CA",8,CA30,45,...,  Net earnings by place of residence,45450289
+6081,"San Mateo, CA",8,CA30,50,...,  Personal current transfer receipts,4476363
+6081,"San Mateo, CA",8,CA30,60,...,    Income maintenance benefits 1/,277364
+6081,"San Mateo, CA",8,CA30,70,...,    Unemployment insurance compensation,87542
+6081,"San Mateo, CA",8,CA30,80,...,    Retirement and other,4111457
+6081,"San Mateo, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",18087247
+6081,"San Mateo, CA",8,CA30,100,...,  Population (persons) 3/,758581
+6081,"San Mateo, CA",8,CA30,110,...,  Per capita personal income 4/,89659
+6081,"San Mateo, CA",8,CA30,120,...,  Per capita net earnings 4/,59915
+6081,"San Mateo, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,5901
+6081,"San Mateo, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,366
+6081,"San Mateo, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,115
+6081,"San Mateo, CA",8,CA30,160,...,    Per capita retirement and other 4/,5420
+6081,"San Mateo, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",23844
+6081,"San Mateo, CA",8,CA30,180,...,  Earnings by place of work,51463330
+6081,"San Mateo, CA",8,CA30,190,...,    Wages and salaries,40287058
+6081,"San Mateo, CA",8,CA30,200,...,    Supplements to wages and salaries,6350392
+6081,"San Mateo, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,4199866
+6081,"San Mateo, CA",8,CA30,202,...,      Employer contributions for government social insurance,2150526
+6081,"San Mateo, CA",8,CA30,210,...,    Proprietors' income,4825880
+6081,"San Mateo, CA",8,CA30,220,...,      Farm proprietors' income,-946
+6081,"San Mateo, CA",8,CA30,230,...,      Nonfarm proprietors' income,4826826
+6081,"San Mateo, CA",8,CA30,240,...,Total employment (number of jobs),534572
+6081,"San Mateo, CA",8,CA30,250,...,  Wage and salary employment,397336
+6081,"San Mateo, CA",8,CA30,260,...,  Proprietors employment,137236
+6081,"San Mateo, CA",8,CA30,270,...,    Farm proprietors employment 6/,238
+6081,"San Mateo, CA",8,CA30,280,...,    Nonfarm proprietors employment,136998
+6081,"San Mateo, CA",8,CA30,290,...,Average earnings per job (dollars),96270
+6081,"San Mateo, CA",8,CA30,300,...,  Average wages and salaries,101393
+6081,"San Mateo, CA",8,CA30,310,...,  Average nonfarm proprietors' income,35233
+6083,"Santa Barbara, CA",8,CA30,10,...,Personal income (thousands of dollars),22263835
+6083,"Santa Barbara, CA",8,CA30,45,...,  Net earnings by place of residence,12671582
+6083,"Santa Barbara, CA",8,CA30,50,...,  Personal current transfer receipts,2889807
+6083,"Santa Barbara, CA",8,CA30,60,...,    Income maintenance benefits 1/,275852
+6083,"Santa Barbara, CA",8,CA30,70,...,    Unemployment insurance compensation,58786
+6083,"Santa Barbara, CA",8,CA30,80,...,    Retirement and other,2555169
+6083,"Santa Barbara, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",6702446
+6083,"Santa Barbara, CA",8,CA30,100,...,  Population (persons) 3/,440668
+6083,"Santa Barbara, CA",8,CA30,110,...,  Per capita personal income 4/,50523
+6083,"Santa Barbara, CA",8,CA30,120,...,  Per capita net earnings 4/,28755
+6083,"Santa Barbara, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6558
+6083,"Santa Barbara, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,626
+6083,"Santa Barbara, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,133
+6083,"Santa Barbara, CA",8,CA30,160,...,    Per capita retirement and other 4/,5798
+6083,"Santa Barbara, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",15210
+6083,"Santa Barbara, CA",8,CA30,180,...,  Earnings by place of work,15028980
+6083,"Santa Barbara, CA",8,CA30,190,...,    Wages and salaries,10086365
+6083,"Santa Barbara, CA",8,CA30,200,...,    Supplements to wages and salaries,2723032
+6083,"Santa Barbara, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,2006830
+6083,"Santa Barbara, CA",8,CA30,202,...,      Employer contributions for government social insurance,716202
+6083,"Santa Barbara, CA",8,CA30,210,...,    Proprietors' income,2219583
+6083,"Santa Barbara, CA",8,CA30,220,...,      Farm proprietors' income,353524
+6083,"Santa Barbara, CA",8,CA30,230,...,      Nonfarm proprietors' income,1866059
+6083,"Santa Barbara, CA",8,CA30,240,...,Total employment (number of jobs),269772
+6083,"Santa Barbara, CA",8,CA30,250,...,  Wage and salary employment,206148
+6083,"Santa Barbara, CA",8,CA30,260,...,  Proprietors employment,63624
+6083,"Santa Barbara, CA",8,CA30,270,...,    Farm proprietors employment 6/,1132
+6083,"Santa Barbara, CA",8,CA30,280,...,    Nonfarm proprietors employment,62492
+6083,"Santa Barbara, CA",8,CA30,290,...,Average earnings per job (dollars),55710
+6083,"Santa Barbara, CA",8,CA30,300,...,  Average wages and salaries,48928
+6083,"Santa Barbara, CA",8,CA30,310,...,  Average nonfarm proprietors' income,29861
+6085,"Santa Clara, CA",8,CA30,10,...,Personal income (thousands of dollars),141873705
+6085,"Santa Clara, CA",8,CA30,45,...,  Net earnings by place of residence,101960791
+6085,"Santa Clara, CA",8,CA30,50,...,  Personal current transfer receipts,11603801
+6085,"Santa Clara, CA",8,CA30,60,...,    Income maintenance benefits 1/,1041542
+6085,"Santa Clara, CA",8,CA30,70,...,    Unemployment insurance compensation,254679
+6085,"Santa Clara, CA",8,CA30,80,...,    Retirement and other,10307580
+6085,"Santa Clara, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",28309113
+6085,"Santa Clara, CA",8,CA30,100,...,  Population (persons) 3/,1894605
+6085,"Santa Clara, CA",8,CA30,110,...,  Per capita personal income 4/,74883
+6085,"Santa Clara, CA",8,CA30,120,...,  Per capita net earnings 4/,53816
+6085,"Santa Clara, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6125
+6085,"Santa Clara, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,550
+6085,"Santa Clara, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,134
+6085,"Santa Clara, CA",8,CA30,160,...,    Per capita retirement and other 4/,5440
+6085,"Santa Clara, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",14942
+6085,"Santa Clara, CA",8,CA30,180,...,  Earnings by place of work,133732419
+6085,"Santa Clara, CA",8,CA30,190,...,    Wages and salaries,109016704
+6085,"Santa Clara, CA",8,CA30,200,...,    Supplements to wages and salaries,16953563
+6085,"Santa Clara, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,10916687
+6085,"Santa Clara, CA",8,CA30,202,...,      Employer contributions for government social insurance,6036876
+6085,"Santa Clara, CA",8,CA30,210,...,    Proprietors' income,7762152
+6085,"Santa Clara, CA",8,CA30,220,...,      Farm proprietors' income,44410
+6085,"Santa Clara, CA",8,CA30,230,...,      Nonfarm proprietors' income,7717742
+6085,"Santa Clara, CA",8,CA30,240,...,Total employment (number of jobs),1281106
+6085,"Santa Clara, CA",8,CA30,250,...,  Wage and salary employment,1035551
+6085,"Santa Clara, CA",8,CA30,260,...,  Proprietors employment,245555
+6085,"Santa Clara, CA",8,CA30,270,...,    Farm proprietors employment 6/,818
+6085,"Santa Clara, CA",8,CA30,280,...,    Nonfarm proprietors employment,244737
+6085,"Santa Clara, CA",8,CA30,290,...,Average earnings per job (dollars),104388
+6085,"Santa Clara, CA",8,CA30,300,...,  Average wages and salaries,105274
+6085,"Santa Clara, CA",8,CA30,310,...,  Average nonfarm proprietors' income,31535
+6087,"Santa Cruz, CA",8,CA30,10,...,Personal income (thousands of dollars),14209814
+6087,"Santa Cruz, CA",8,CA30,45,...,  Net earnings by place of residence,9083224
+6087,"Santa Cruz, CA",8,CA30,50,...,  Personal current transfer receipts,1884873
+6087,"Santa Cruz, CA",8,CA30,60,...,    Income maintenance benefits 1/,166995
+6087,"Santa Cruz, CA",8,CA30,70,...,    Unemployment insurance compensation,65089
+6087,"Santa Cruz, CA",8,CA30,80,...,    Retirement and other,1652789
+6087,"Santa Cruz, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",3241717
+6087,"Santa Cruz, CA",8,CA30,100,...,  Population (persons) 3/,271804
+6087,"Santa Cruz, CA",8,CA30,110,...,  Per capita personal income 4/,52280
+6087,"Santa Cruz, CA",8,CA30,120,...,  Per capita net earnings 4/,33418
+6087,"Santa Cruz, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6935
+6087,"Santa Cruz, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,614
+6087,"Santa Cruz, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,239
+6087,"Santa Cruz, CA",8,CA30,160,...,    Per capita retirement and other 4/,6081
+6087,"Santa Cruz, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",11927
+6087,"Santa Cruz, CA",8,CA30,180,...,  Earnings by place of work,7485047
+6087,"Santa Cruz, CA",8,CA30,190,...,    Wages and salaries,4743911
+6087,"Santa Cruz, CA",8,CA30,200,...,    Supplements to wages and salaries,1317542
+6087,"Santa Cruz, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,985419
+6087,"Santa Cruz, CA",8,CA30,202,...,      Employer contributions for government social insurance,332123
+6087,"Santa Cruz, CA",8,CA30,210,...,    Proprietors' income,1423594
+6087,"Santa Cruz, CA",8,CA30,220,...,      Farm proprietors' income,137687
+6087,"Santa Cruz, CA",8,CA30,230,...,      Nonfarm proprietors' income,1285907
+6087,"Santa Cruz, CA",8,CA30,240,...,Total employment (number of jobs),148684
+6087,"Santa Cruz, CA",8,CA30,250,...,  Wage and salary employment,104234
+6087,"Santa Cruz, CA",8,CA30,260,...,  Proprietors employment,44450
+6087,"Santa Cruz, CA",8,CA30,270,...,    Farm proprietors employment 6/,507
+6087,"Santa Cruz, CA",8,CA30,280,...,    Nonfarm proprietors employment,43943
+6087,"Santa Cruz, CA",8,CA30,290,...,Average earnings per job (dollars),50342
+6087,"Santa Cruz, CA",8,CA30,300,...,  Average wages and salaries,45512
+6087,"Santa Cruz, CA",8,CA30,310,...,  Average nonfarm proprietors' income,29263
+6089,"Shasta, CA",8,CA30,10,...,Personal income (thousands of dollars),6815459
+6089,"Shasta, CA",8,CA30,45,...,  Net earnings by place of residence,3425607
+6089,"Shasta, CA",8,CA30,50,...,  Personal current transfer receipts,2107773
+6089,"Shasta, CA",8,CA30,60,...,    Income maintenance benefits 1/,196171
+6089,"Shasta, CA",8,CA30,70,...,    Unemployment insurance compensation,35124
+6089,"Shasta, CA",8,CA30,80,...,    Retirement and other,1876478
+6089,"Shasta, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1282079
+6089,"Shasta, CA",8,CA30,100,...,  Population (persons) 3/,179804
+6089,"Shasta, CA",8,CA30,110,...,  Per capita personal income 4/,37905
+6089,"Shasta, CA",8,CA30,120,...,  Per capita net earnings 4/,19052
+6089,"Shasta, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,11723
+6089,"Shasta, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1091
+6089,"Shasta, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,195
+6089,"Shasta, CA",8,CA30,160,...,    Per capita retirement and other 4/,10436
+6089,"Shasta, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",7130
+6089,"Shasta, CA",8,CA30,180,...,  Earnings by place of work,3947845
+6089,"Shasta, CA",8,CA30,190,...,    Wages and salaries,2607944
+6089,"Shasta, CA",8,CA30,200,...,    Supplements to wages and salaries,793916
+6089,"Shasta, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,602583
+6089,"Shasta, CA",8,CA30,202,...,      Employer contributions for government social insurance,191333
+6089,"Shasta, CA",8,CA30,210,...,    Proprietors' income,545985
+6089,"Shasta, CA",8,CA30,220,...,      Farm proprietors' income,13595
+6089,"Shasta, CA",8,CA30,230,...,      Nonfarm proprietors' income,532390
+6089,"Shasta, CA",8,CA30,240,...,Total employment (number of jobs),90076
+6089,"Shasta, CA",8,CA30,250,...,  Wage and salary employment,65841
+6089,"Shasta, CA",8,CA30,260,...,  Proprietors employment,24235
+6089,"Shasta, CA",8,CA30,270,...,    Farm proprietors employment 6/,1334
+6089,"Shasta, CA",8,CA30,280,...,    Nonfarm proprietors employment,22901
+6089,"Shasta, CA",8,CA30,290,...,Average earnings per job (dollars),43828
+6089,"Shasta, CA",8,CA30,300,...,  Average wages and salaries,39610
+6089,"Shasta, CA",8,CA30,310,...,  Average nonfarm proprietors' income,23247
+6091,"Sierra, CA",8,CA30,10,...,Personal income (thousands of dollars),111830
+6091,"Sierra, CA",8,CA30,45,...,  Net earnings by place of residence,51900
+6091,"Sierra, CA",8,CA30,50,...,  Personal current transfer receipts,30948
+6091,"Sierra, CA",8,CA30,60,...,    Income maintenance benefits 1/,2469
+6091,"Sierra, CA",8,CA30,70,...,    Unemployment insurance compensation,749
+6091,"Sierra, CA",8,CA30,80,...,    Retirement and other,27730
+6091,"Sierra, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",28982
+6091,"Sierra, CA",8,CA30,100,...,  Population (persons) 3/,3003
+6091,"Sierra, CA",8,CA30,110,...,  Per capita personal income 4/,37239
+6091,"Sierra, CA",8,CA30,120,...,  Per capita net earnings 4/,17283
+6091,"Sierra, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10306
+6091,"Sierra, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,822
+6091,"Sierra, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,249
+6091,"Sierra, CA",8,CA30,160,...,    Per capita retirement and other 4/,9234
+6091,"Sierra, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9651
+6091,"Sierra, CA",8,CA30,180,...,  Earnings by place of work,45406
+6091,"Sierra, CA",8,CA30,190,...,    Wages and salaries,26702
+6091,"Sierra, CA",8,CA30,200,...,    Supplements to wages and salaries,11276
+6091,"Sierra, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,9554
+6091,"Sierra, CA",8,CA30,202,...,      Employer contributions for government social insurance,1722
+6091,"Sierra, CA",8,CA30,210,...,    Proprietors' income,7428
+6091,"Sierra, CA",8,CA30,220,...,      Farm proprietors' income,2525
+6091,"Sierra, CA",8,CA30,230,...,      Nonfarm proprietors' income,4903
+6091,"Sierra, CA",8,CA30,240,...,Total employment (number of jobs),1476
+6091,"Sierra, CA",8,CA30,250,...,  Wage and salary employment,691
+6091,"Sierra, CA",8,CA30,260,...,  Proprietors employment,785
+6091,"Sierra, CA",8,CA30,270,...,    Farm proprietors employment 6/,36
+6091,"Sierra, CA",8,CA30,280,...,    Nonfarm proprietors employment,749
+6091,"Sierra, CA",8,CA30,290,...,Average earnings per job (dollars),30763
+6091,"Sierra, CA",8,CA30,300,...,  Average wages and salaries,38643
+6091,"Sierra, CA",8,CA30,310,...,  Average nonfarm proprietors' income,6546
+6093,"Siskiyou, CA",8,CA30,10,...,Personal income (thousands of dollars),1614315
+6093,"Siskiyou, CA",8,CA30,45,...,  Net earnings by place of residence,697958
+6093,"Siskiyou, CA",8,CA30,50,...,  Personal current transfer receipts,541051
+6093,"Siskiyou, CA",8,CA30,60,...,    Income maintenance benefits 1/,53006
+6093,"Siskiyou, CA",8,CA30,70,...,    Unemployment insurance compensation,10220
+6093,"Siskiyou, CA",8,CA30,80,...,    Retirement and other,477825
+6093,"Siskiyou, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",375306
+6093,"Siskiyou, CA",8,CA30,100,...,  Population (persons) 3/,43628
+6093,"Siskiyou, CA",8,CA30,110,...,  Per capita personal income 4/,37002
+6093,"Siskiyou, CA",8,CA30,120,...,  Per capita net earnings 4/,15998
+6093,"Siskiyou, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,12401
+6093,"Siskiyou, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1215
+6093,"Siskiyou, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,234
+6093,"Siskiyou, CA",8,CA30,160,...,    Per capita retirement and other 4/,10952
+6093,"Siskiyou, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8602
+6093,"Siskiyou, CA",8,CA30,180,...,  Earnings by place of work,815477
+6093,"Siskiyou, CA",8,CA30,190,...,    Wages and salaries,502133
+6093,"Siskiyou, CA",8,CA30,200,...,    Supplements to wages and salaries,177572
+6093,"Siskiyou, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,139432
+6093,"Siskiyou, CA",8,CA30,202,...,      Employer contributions for government social insurance,38140
+6093,"Siskiyou, CA",8,CA30,210,...,    Proprietors' income,135772
+6093,"Siskiyou, CA",8,CA30,220,...,      Farm proprietors' income,21526
+6093,"Siskiyou, CA",8,CA30,230,...,      Nonfarm proprietors' income,114246
+6093,"Siskiyou, CA",8,CA30,240,...,Total employment (number of jobs),20478
+6093,"Siskiyou, CA",8,CA30,250,...,  Wage and salary employment,13670
+6093,"Siskiyou, CA",8,CA30,260,...,  Proprietors employment,6808
+6093,"Siskiyou, CA",8,CA30,270,...,    Farm proprietors employment 6/,763
+6093,"Siskiyou, CA",8,CA30,280,...,    Nonfarm proprietors employment,6045
+6093,"Siskiyou, CA",8,CA30,290,...,Average earnings per job (dollars),39822
+6093,"Siskiyou, CA",8,CA30,300,...,  Average wages and salaries,36732
+6093,"Siskiyou, CA",8,CA30,310,...,  Average nonfarm proprietors' income,18899
+6095,"Solano, CA",8,CA30,10,...,Personal income (thousands of dollars),18138958
+6095,"Solano, CA",8,CA30,45,...,  Net earnings by place of residence,11841794
+6095,"Solano, CA",8,CA30,50,...,  Personal current transfer receipts,3277346
+6095,"Solano, CA",8,CA30,60,...,    Income maintenance benefits 1/,324620
+6095,"Solano, CA",8,CA30,70,...,    Unemployment insurance compensation,79572
+6095,"Solano, CA",8,CA30,80,...,    Retirement and other,2873154
+6095,"Solano, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",3019818
+6095,"Solano, CA",8,CA30,100,...,  Population (persons) 3/,431131
+6095,"Solano, CA",8,CA30,110,...,  Per capita personal income 4/,42073
+6095,"Solano, CA",8,CA30,120,...,  Per capita net earnings 4/,27467
+6095,"Solano, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7602
+6095,"Solano, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,753
+6095,"Solano, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,185
+6095,"Solano, CA",8,CA30,160,...,    Per capita retirement and other 4/,6664
+6095,"Solano, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",7004
+6095,"Solano, CA",8,CA30,180,...,  Earnings by place of work,10573961
+6095,"Solano, CA",8,CA30,190,...,    Wages and salaries,7579442
+6095,"Solano, CA",8,CA30,200,...,    Supplements to wages and salaries,2138829
+6095,"Solano, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1602906
+6095,"Solano, CA",8,CA30,202,...,      Employer contributions for government social insurance,535923
+6095,"Solano, CA",8,CA30,210,...,    Proprietors' income,855690
+6095,"Solano, CA",8,CA30,220,...,      Farm proprietors' income,55806
+6095,"Solano, CA",8,CA30,230,...,      Nonfarm proprietors' income,799884
+6095,"Solano, CA",8,CA30,240,...,Total employment (number of jobs),177011
+6095,"Solano, CA",8,CA30,250,...,  Wage and salary employment,141893
+6095,"Solano, CA",8,CA30,260,...,  Proprietors employment,35118
+6095,"Solano, CA",8,CA30,270,...,    Farm proprietors employment 6/,695
+6095,"Solano, CA",8,CA30,280,...,    Nonfarm proprietors employment,34423
+6095,"Solano, CA",8,CA30,290,...,Average earnings per job (dollars),59736
+6095,"Solano, CA",8,CA30,300,...,  Average wages and salaries,53417
+6095,"Solano, CA",8,CA30,310,...,  Average nonfarm proprietors' income,23237
+6097,"Sonoma, CA",8,CA30,10,...,Personal income (thousands of dollars),24606709
+6097,"Sonoma, CA",8,CA30,45,...,  Net earnings by place of residence,15059888
+6097,"Sonoma, CA",8,CA30,50,...,  Personal current transfer receipts,3747087
+6097,"Sonoma, CA",8,CA30,60,...,    Income maintenance benefits 1/,252428
+6097,"Sonoma, CA",8,CA30,70,...,    Unemployment insurance compensation,69392
+6097,"Sonoma, CA",8,CA30,80,...,    Retirement and other,3425267
+6097,"Sonoma, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",5799734
+6097,"Sonoma, CA",8,CA30,100,...,  Population (persons) 3/,500292
+6097,"Sonoma, CA",8,CA30,110,...,  Per capita personal income 4/,49185
+6097,"Sonoma, CA",8,CA30,120,...,  Per capita net earnings 4/,30102
+6097,"Sonoma, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,7490
+6097,"Sonoma, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,505
+6097,"Sonoma, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,139
+6097,"Sonoma, CA",8,CA30,160,...,    Per capita retirement and other 4/,6847
+6097,"Sonoma, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",11593
+6097,"Sonoma, CA",8,CA30,180,...,  Earnings by place of work,14695896
+6097,"Sonoma, CA",8,CA30,190,...,    Wages and salaries,9739222
+6097,"Sonoma, CA",8,CA30,200,...,    Supplements to wages and salaries,2553008
+6097,"Sonoma, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1841730
+6097,"Sonoma, CA",8,CA30,202,...,      Employer contributions for government social insurance,711278
+6097,"Sonoma, CA",8,CA30,210,...,    Proprietors' income,2403666
+6097,"Sonoma, CA",8,CA30,220,...,      Farm proprietors' income,193849
+6097,"Sonoma, CA",8,CA30,230,...,      Nonfarm proprietors' income,2209817
+6097,"Sonoma, CA",8,CA30,240,...,Total employment (number of jobs),289314
+6097,"Sonoma, CA",8,CA30,250,...,  Wage and salary employment,204545
+6097,"Sonoma, CA",8,CA30,260,...,  Proprietors employment,84769
+6097,"Sonoma, CA",8,CA30,270,...,    Farm proprietors employment 6/,2861
+6097,"Sonoma, CA",8,CA30,280,...,    Nonfarm proprietors employment,81908
+6097,"Sonoma, CA",8,CA30,290,...,Average earnings per job (dollars),50796
+6097,"Sonoma, CA",8,CA30,300,...,  Average wages and salaries,47614
+6097,"Sonoma, CA",8,CA30,310,...,  Average nonfarm proprietors' income,26979
+6099,"Stanislaus, CA",8,CA30,10,...,Personal income (thousands of dollars),19341120
+6099,"Stanislaus, CA",8,CA30,45,...,  Net earnings by place of residence,12223361
+6099,"Stanislaus, CA",8,CA30,50,...,  Personal current transfer receipts,4272456
+6099,"Stanislaus, CA",8,CA30,60,...,    Income maintenance benefits 1/,590629
+6099,"Stanislaus, CA",8,CA30,70,...,    Unemployment insurance compensation,122519
+6099,"Stanislaus, CA",8,CA30,80,...,    Retirement and other,3559308
+6099,"Stanislaus, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",2845303
+6099,"Stanislaus, CA",8,CA30,100,...,  Population (persons) 3/,531997
+6099,"Stanislaus, CA",8,CA30,110,...,  Per capita personal income 4/,36356
+6099,"Stanislaus, CA",8,CA30,120,...,  Per capita net earnings 4/,22976
+6099,"Stanislaus, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8031
+6099,"Stanislaus, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1110
+6099,"Stanislaus, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,230
+6099,"Stanislaus, CA",8,CA30,160,...,    Per capita retirement and other 4/,6690
+6099,"Stanislaus, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5348
+6099,"Stanislaus, CA",8,CA30,180,...,  Earnings by place of work,11947011
+6099,"Stanislaus, CA",8,CA30,190,...,    Wages and salaries,7793222
+6099,"Stanislaus, CA",8,CA30,200,...,    Supplements to wages and salaries,2211168
+6099,"Stanislaus, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1635828
+6099,"Stanislaus, CA",8,CA30,202,...,      Employer contributions for government social insurance,575340
+6099,"Stanislaus, CA",8,CA30,210,...,    Proprietors' income,1942621
+6099,"Stanislaus, CA",8,CA30,220,...,      Farm proprietors' income,772818
+6099,"Stanislaus, CA",8,CA30,230,...,      Nonfarm proprietors' income,1169803
+6099,"Stanislaus, CA",8,CA30,240,...,Total employment (number of jobs),227971
+6099,"Stanislaus, CA",8,CA30,250,...,  Wage and salary employment,182757
+6099,"Stanislaus, CA",8,CA30,260,...,  Proprietors employment,45214
+6099,"Stanislaus, CA",8,CA30,270,...,    Farm proprietors employment 6/,3442
+6099,"Stanislaus, CA",8,CA30,280,...,    Nonfarm proprietors employment,41772
+6099,"Stanislaus, CA",8,CA30,290,...,Average earnings per job (dollars),52406
+6099,"Stanislaus, CA",8,CA30,300,...,  Average wages and salaries,42643
+6099,"Stanislaus, CA",8,CA30,310,...,  Average nonfarm proprietors' income,28004
+6101,"Sutter, CA",8,CA30,10,...,Personal income (thousands of dollars),3725675
+6101,"Sutter, CA",8,CA30,45,...,  Net earnings by place of residence,2348377
+6101,"Sutter, CA",8,CA30,50,...,  Personal current transfer receipts,778807
+6101,"Sutter, CA",8,CA30,60,...,    Income maintenance benefits 1/,94492
+6101,"Sutter, CA",8,CA30,70,...,    Unemployment insurance compensation,27370
+6101,"Sutter, CA",8,CA30,80,...,    Retirement and other,656945
+6101,"Sutter, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",598491
+6101,"Sutter, CA",8,CA30,100,...,  Population (persons) 3/,95847
+6101,"Sutter, CA",8,CA30,110,...,  Per capita personal income 4/,38871
+6101,"Sutter, CA",8,CA30,120,...,  Per capita net earnings 4/,24501
+6101,"Sutter, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8126
+6101,"Sutter, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,986
+6101,"Sutter, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,286
+6101,"Sutter, CA",8,CA30,160,...,    Per capita retirement and other 4/,6854
+6101,"Sutter, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6244
+6101,"Sutter, CA",8,CA30,180,...,  Earnings by place of work,1960096
+6101,"Sutter, CA",8,CA30,190,...,    Wages and salaries,1133718
+6101,"Sutter, CA",8,CA30,200,...,    Supplements to wages and salaries,325754
+6101,"Sutter, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,242655
+6101,"Sutter, CA",8,CA30,202,...,      Employer contributions for government social insurance,83099
+6101,"Sutter, CA",8,CA30,210,...,    Proprietors' income,500624
+6101,"Sutter, CA",8,CA30,220,...,      Farm proprietors' income,126049
+6101,"Sutter, CA",8,CA30,230,...,      Nonfarm proprietors' income,374575
+6101,"Sutter, CA",8,CA30,240,...,Total employment (number of jobs),45193
+6101,"Sutter, CA",8,CA30,250,...,  Wage and salary employment,29044
+6101,"Sutter, CA",8,CA30,260,...,  Proprietors employment,16149
+6101,"Sutter, CA",8,CA30,270,...,    Farm proprietors employment 6/,1123
+6101,"Sutter, CA",8,CA30,280,...,    Nonfarm proprietors employment,15026
+6101,"Sutter, CA",8,CA30,290,...,Average earnings per job (dollars),43372
+6101,"Sutter, CA",8,CA30,300,...,  Average wages and salaries,39034
+6101,"Sutter, CA",8,CA30,310,...,  Average nonfarm proprietors' income,24928
+6103,"Tehama, CA",8,CA30,10,...,Personal income (thousands of dollars),2060118
+6103,"Tehama, CA",8,CA30,45,...,  Net earnings by place of residence,1038767
+6103,"Tehama, CA",8,CA30,50,...,  Personal current transfer receipts,621074
+6103,"Tehama, CA",8,CA30,60,...,    Income maintenance benefits 1/,74789
+6103,"Tehama, CA",8,CA30,70,...,    Unemployment insurance compensation,10268
+6103,"Tehama, CA",8,CA30,80,...,    Retirement and other,536017
+6103,"Tehama, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",400277
+6103,"Tehama, CA",8,CA30,100,...,  Population (persons) 3/,63067
+6103,"Tehama, CA",8,CA30,110,...,  Per capita personal income 4/,32666
+6103,"Tehama, CA",8,CA30,120,...,  Per capita net earnings 4/,16471
+6103,"Tehama, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,9848
+6103,"Tehama, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1186
+6103,"Tehama, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,163
+6103,"Tehama, CA",8,CA30,160,...,    Per capita retirement and other 4/,8499
+6103,"Tehama, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",6347
+6103,"Tehama, CA",8,CA30,180,...,  Earnings by place of work,1035774
+6103,"Tehama, CA",8,CA30,190,...,    Wages and salaries,670445
+6103,"Tehama, CA",8,CA30,200,...,    Supplements to wages and salaries,203730
+6103,"Tehama, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,154643
+6103,"Tehama, CA",8,CA30,202,...,      Employer contributions for government social insurance,49087
+6103,"Tehama, CA",8,CA30,210,...,    Proprietors' income,161599
+6103,"Tehama, CA",8,CA30,220,...,      Farm proprietors' income,60313
+6103,"Tehama, CA",8,CA30,230,...,      Nonfarm proprietors' income,101286
+6103,"Tehama, CA",8,CA30,240,...,Total employment (number of jobs),23814
+6103,"Tehama, CA",8,CA30,250,...,  Wage and salary employment,17406
+6103,"Tehama, CA",8,CA30,260,...,  Proprietors employment,6408
+6103,"Tehama, CA",8,CA30,270,...,    Farm proprietors employment 6/,1504
+6103,"Tehama, CA",8,CA30,280,...,    Nonfarm proprietors employment,4904
+6103,"Tehama, CA",8,CA30,290,...,Average earnings per job (dollars),43494
+6103,"Tehama, CA",8,CA30,300,...,  Average wages and salaries,38518
+6103,"Tehama, CA",8,CA30,310,...,  Average nonfarm proprietors' income,20654
+6105,"Trinity, CA",8,CA30,10,...,Personal income (thousands of dollars),424875
+6105,"Trinity, CA",8,CA30,45,...,  Net earnings by place of residence,150243
+6105,"Trinity, CA",8,CA30,50,...,  Personal current transfer receipts,160640
+6105,"Trinity, CA",8,CA30,60,...,    Income maintenance benefits 1/,13504
+6105,"Trinity, CA",8,CA30,70,...,    Unemployment insurance compensation,2471
+6105,"Trinity, CA",8,CA30,80,...,    Retirement and other,144665
+6105,"Trinity, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",113992
+6105,"Trinity, CA",8,CA30,100,...,  Population (persons) 3/,13170
+6105,"Trinity, CA",8,CA30,110,...,  Per capita personal income 4/,32261
+6105,"Trinity, CA",8,CA30,120,...,  Per capita net earnings 4/,11408
+6105,"Trinity, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,12197
+6105,"Trinity, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1025
+6105,"Trinity, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,188
+6105,"Trinity, CA",8,CA30,160,...,    Per capita retirement and other 4/,10984
+6105,"Trinity, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8655
+6105,"Trinity, CA",8,CA30,180,...,  Earnings by place of work,164429
+6105,"Trinity, CA",8,CA30,190,...,    Wages and salaries,99316
+6105,"Trinity, CA",8,CA30,200,...,    Supplements to wages and salaries,42823
+6105,"Trinity, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,36133
+6105,"Trinity, CA",8,CA30,202,...,      Employer contributions for government social insurance,6690
+6105,"Trinity, CA",8,CA30,210,...,    Proprietors' income,22290
+6105,"Trinity, CA",8,CA30,220,...,      Farm proprietors' income,-3712
+6105,"Trinity, CA",8,CA30,230,...,      Nonfarm proprietors' income,26002
+6105,"Trinity, CA",8,CA30,240,...,Total employment (number of jobs),4810
+6105,"Trinity, CA",8,CA30,250,...,  Wage and salary employment,2811
+6105,"Trinity, CA",8,CA30,260,...,  Proprietors employment,1999
+6105,"Trinity, CA",8,CA30,270,...,    Farm proprietors employment 6/,215
+6105,"Trinity, CA",8,CA30,280,...,    Nonfarm proprietors employment,1784
+6105,"Trinity, CA",8,CA30,290,...,Average earnings per job (dollars),34185
+6105,"Trinity, CA",8,CA30,300,...,  Average wages and salaries,35331
+6105,"Trinity, CA",8,CA30,310,...,  Average nonfarm proprietors' income,14575
+6107,"Tulare, CA",8,CA30,10,...,Personal income (thousands of dollars),16147060
+6107,"Tulare, CA",8,CA30,45,...,  Net earnings by place of residence,10238955
+6107,"Tulare, CA",8,CA30,50,...,  Personal current transfer receipts,3749473
+6107,"Tulare, CA",8,CA30,60,...,    Income maintenance benefits 1/,681914
+6107,"Tulare, CA",8,CA30,70,...,    Unemployment insurance compensation,120665
+6107,"Tulare, CA",8,CA30,80,...,    Retirement and other,2946894
+6107,"Tulare, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",2158632
+6107,"Tulare, CA",8,CA30,100,...,  Population (persons) 3/,458198
+6107,"Tulare, CA",8,CA30,110,...,  Per capita personal income 4/,35240
+6107,"Tulare, CA",8,CA30,120,...,  Per capita net earnings 4/,22346
+6107,"Tulare, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,8183
+6107,"Tulare, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1488
+6107,"Tulare, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,263
+6107,"Tulare, CA",8,CA30,160,...,    Per capita retirement and other 4/,6431
+6107,"Tulare, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",4711
+6107,"Tulare, CA",8,CA30,180,...,  Earnings by place of work,10340374
+6107,"Tulare, CA",8,CA30,190,...,    Wages and salaries,5670354
+6107,"Tulare, CA",8,CA30,200,...,    Supplements to wages and salaries,1859357
+6107,"Tulare, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1449598
+6107,"Tulare, CA",8,CA30,202,...,      Employer contributions for government social insurance,409759
+6107,"Tulare, CA",8,CA30,210,...,    Proprietors' income,2810663
+6107,"Tulare, CA",8,CA30,220,...,      Farm proprietors' income,1686204
+6107,"Tulare, CA",8,CA30,230,...,      Nonfarm proprietors' income,1124459
+6107,"Tulare, CA",8,CA30,240,...,Total employment (number of jobs),195901
+6107,"Tulare, CA",8,CA30,250,...,  Wage and salary employment,155985
+6107,"Tulare, CA",8,CA30,260,...,  Proprietors employment,39916
+6107,"Tulare, CA",8,CA30,270,...,    Farm proprietors employment 6/,3990
+6107,"Tulare, CA",8,CA30,280,...,    Nonfarm proprietors employment,35926
+6107,"Tulare, CA",8,CA30,290,...,Average earnings per job (dollars),52784
+6107,"Tulare, CA",8,CA30,300,...,  Average wages and salaries,36352
+6107,"Tulare, CA",8,CA30,310,...,  Average nonfarm proprietors' income,31299
+6109,"Tuolumne, CA",8,CA30,10,...,Personal income (thousands of dollars),2079983
+6109,"Tuolumne, CA",8,CA30,45,...,  Net earnings by place of residence,978129
+6109,"Tuolumne, CA",8,CA30,50,...,  Personal current transfer receipts,589214
+6109,"Tuolumne, CA",8,CA30,60,...,    Income maintenance benefits 1/,38941
+6109,"Tuolumne, CA",8,CA30,70,...,    Unemployment insurance compensation,8464
+6109,"Tuolumne, CA",8,CA30,80,...,    Retirement and other,541809
+6109,"Tuolumne, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",512640
+6109,"Tuolumne, CA",8,CA30,100,...,  Population (persons) 3/,53831
+6109,"Tuolumne, CA",8,CA30,110,...,  Per capita personal income 4/,38639
+6109,"Tuolumne, CA",8,CA30,120,...,  Per capita net earnings 4/,18170
+6109,"Tuolumne, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10946
+6109,"Tuolumne, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,723
+6109,"Tuolumne, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,157
+6109,"Tuolumne, CA",8,CA30,160,...,    Per capita retirement and other 4/,10065
+6109,"Tuolumne, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",9523
+6109,"Tuolumne, CA",8,CA30,180,...,  Earnings by place of work,1086696
+6109,"Tuolumne, CA",8,CA30,190,...,    Wages and salaries,708261
+6109,"Tuolumne, CA",8,CA30,200,...,    Supplements to wages and salaries,243236
+6109,"Tuolumne, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,195699
+6109,"Tuolumne, CA",8,CA30,202,...,      Employer contributions for government social insurance,47537
+6109,"Tuolumne, CA",8,CA30,210,...,    Proprietors' income,135199
+6109,"Tuolumne, CA",8,CA30,220,...,      Farm proprietors' income,949
+6109,"Tuolumne, CA",8,CA30,230,...,      Nonfarm proprietors' income,134250
+6109,"Tuolumne, CA",8,CA30,240,...,Total employment (number of jobs),25683
+6109,"Tuolumne, CA",8,CA30,250,...,  Wage and salary employment,17810
+6109,"Tuolumne, CA",8,CA30,260,...,  Proprietors employment,7873
+6109,"Tuolumne, CA",8,CA30,270,...,    Farm proprietors employment 6/,345
+6109,"Tuolumne, CA",8,CA30,280,...,    Nonfarm proprietors employment,7528
+6109,"Tuolumne, CA",8,CA30,290,...,Average earnings per job (dollars),42312
+6109,"Tuolumne, CA",8,CA30,300,...,  Average wages and salaries,39768
+6109,"Tuolumne, CA",8,CA30,310,...,  Average nonfarm proprietors' income,17833
+6111,"Ventura, CA",8,CA30,10,...,Personal income (thousands of dollars),42651306
+6111,"Ventura, CA",8,CA30,45,...,  Net earnings by place of residence,28362564
+6111,"Ventura, CA",8,CA30,50,...,  Personal current transfer receipts,5714070
+6111,"Ventura, CA",8,CA30,60,...,    Income maintenance benefits 1/,527675
+6111,"Ventura, CA",8,CA30,70,...,    Unemployment insurance compensation,144327
+6111,"Ventura, CA",8,CA30,80,...,    Retirement and other,5042068
+6111,"Ventura, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",8574672
+6111,"Ventura, CA",8,CA30,100,...,  Population (persons) 3/,846178
+6111,"Ventura, CA",8,CA30,110,...,  Per capita personal income 4/,50405
+6111,"Ventura, CA",8,CA30,120,...,  Per capita net earnings 4/,33518
+6111,"Ventura, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6753
+6111,"Ventura, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,624
+6111,"Ventura, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,171
+6111,"Ventura, CA",8,CA30,160,...,    Per capita retirement and other 4/,5959
+6111,"Ventura, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",10133
+6111,"Ventura, CA",8,CA30,180,...,  Earnings by place of work,25482368
+6111,"Ventura, CA",8,CA30,190,...,    Wages and salaries,17921456
+6111,"Ventura, CA",8,CA30,200,...,    Supplements to wages and salaries,4492978
+6111,"Ventura, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,3234735
+6111,"Ventura, CA",8,CA30,202,...,      Employer contributions for government social insurance,1258243
+6111,"Ventura, CA",8,CA30,210,...,    Proprietors' income,3067934
+6111,"Ventura, CA",8,CA30,220,...,      Farm proprietors' income,387114
+6111,"Ventura, CA",8,CA30,230,...,      Nonfarm proprietors' income,2680820
+6111,"Ventura, CA",8,CA30,240,...,Total employment (number of jobs),447252
+6111,"Ventura, CA",8,CA30,250,...,  Wage and salary employment,336508
+6111,"Ventura, CA",8,CA30,260,...,  Proprietors employment,110744
+6111,"Ventura, CA",8,CA30,270,...,    Farm proprietors employment 6/,1637
+6111,"Ventura, CA",8,CA30,280,...,    Nonfarm proprietors employment,109107
+6111,"Ventura, CA",8,CA30,290,...,Average earnings per job (dollars),56975
+6111,"Ventura, CA",8,CA30,300,...,  Average wages and salaries,53257
+6111,"Ventura, CA",8,CA30,310,...,  Average nonfarm proprietors' income,24571
+6113,"Yolo, CA",8,CA30,10,...,Personal income (thousands of dollars),9369048
+6113,"Yolo, CA",8,CA30,45,...,  Net earnings by place of residence,6204859
+6113,"Yolo, CA",8,CA30,50,...,  Personal current transfer receipts,1365077
+6113,"Yolo, CA",8,CA30,60,...,    Income maintenance benefits 1/,145597
+6113,"Yolo, CA",8,CA30,70,...,    Unemployment insurance compensation,34536
+6113,"Yolo, CA",8,CA30,80,...,    Retirement and other,1184944
+6113,"Yolo, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",1799112
+6113,"Yolo, CA",8,CA30,100,...,  Population (persons) 3/,207590
+6113,"Yolo, CA",8,CA30,110,...,  Per capita personal income 4/,45132
+6113,"Yolo, CA",8,CA30,120,...,  Per capita net earnings 4/,29890
+6113,"Yolo, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,6576
+6113,"Yolo, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,701
+6113,"Yolo, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,166
+6113,"Yolo, CA",8,CA30,160,...,    Per capita retirement and other 4/,5708
+6113,"Yolo, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",8667
+6113,"Yolo, CA",8,CA30,180,...,  Earnings by place of work,8057716
+6113,"Yolo, CA",8,CA30,190,...,    Wages and salaries,5456745
+6113,"Yolo, CA",8,CA30,200,...,    Supplements to wages and salaries,1898923
+6113,"Yolo, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,1557691
+6113,"Yolo, CA",8,CA30,202,...,      Employer contributions for government social insurance,341232
+6113,"Yolo, CA",8,CA30,210,...,    Proprietors' income,702048
+6113,"Yolo, CA",8,CA30,220,...,      Farm proprietors' income,158219
+6113,"Yolo, CA",8,CA30,230,...,      Nonfarm proprietors' income,543829
+6113,"Yolo, CA",8,CA30,240,...,Total employment (number of jobs),124228
+6113,"Yolo, CA",8,CA30,250,...,  Wage and salary employment,105354
+6113,"Yolo, CA",8,CA30,260,...,  Proprietors employment,18874
+6113,"Yolo, CA",8,CA30,270,...,    Farm proprietors employment 6/,785
+6113,"Yolo, CA",8,CA30,280,...,    Nonfarm proprietors employment,18089
+6113,"Yolo, CA",8,CA30,290,...,Average earnings per job (dollars),64862
+6113,"Yolo, CA",8,CA30,300,...,  Average wages and salaries,51794
+6113,"Yolo, CA",8,CA30,310,...,  Average nonfarm proprietors' income,30064
+6115,"Yuba, CA",8,CA30,10,...,Personal income (thousands of dollars),2587968
+6115,"Yuba, CA",8,CA30,45,...,  Net earnings by place of residence,1415062
+6115,"Yuba, CA",8,CA30,50,...,  Personal current transfer receipts,777954
+6115,"Yuba, CA",8,CA30,60,...,    Income maintenance benefits 1/,103289
+6115,"Yuba, CA",8,CA30,70,...,    Unemployment insurance compensation,15190
+6115,"Yuba, CA",8,CA30,80,...,    Retirement and other,659475
+6115,"Yuba, CA",8,CA30,90,...,"  Dividends, interest, and rent 2/",394952
+6115,"Yuba, CA",8,CA30,100,...,  Population (persons) 3/,73966
+6115,"Yuba, CA",8,CA30,110,...,  Per capita personal income 4/,34989
+6115,"Yuba, CA",8,CA30,120,...,  Per capita net earnings 4/,19131
+6115,"Yuba, CA",8,CA30,130,...,  Per capita personal current transfer receipts 4/,10518
+6115,"Yuba, CA",8,CA30,140,...,    Per capita income maintenance benefits 4/,1396
+6115,"Yuba, CA",8,CA30,150,...,    Per capita unemployment insurance compensation 4/,205
+6115,"Yuba, CA",8,CA30,160,...,    Per capita retirement and other 4/,8916
+6115,"Yuba, CA",8,CA30,170,...,"  Per capita dividends, interest, and rent 4/",5340
+6115,"Yuba, CA",8,CA30,180,...,  Earnings by place of work,1629210
+6115,"Yuba, CA",8,CA30,190,...,    Wages and salaries,1068040
+6115,"Yuba, CA",8,CA30,200,...,    Supplements to wages and salaries,422678
+6115,"Yuba, CA",8,CA30,201,...,      Employer contributions for employee pension and insurance funds 5/,340200
+6115,"Yuba, CA",8,CA30,202,...,      Employer contributions for government social insurance,82478
+6115,"Yuba, CA",8,CA30,210,...,    Proprietors' income,138492
+6115,"Yuba, CA",8,CA30,220,...,      Farm proprietors' income,38017
+6115,"Yuba, CA",8,CA30,230,...,      Nonfarm proprietors' income,100475
+6115,"Yuba, CA",8,CA30,240,...,Total employment (number of jobs),28069
+6115,"Yuba, CA",8,CA30,250,...,  Wage and salary employment,22101
+6115,"Yuba, CA",8,CA30,260,...,  Proprietors employment,5968
+6115,"Yuba, CA",8,CA30,270,...,    Farm proprietors employment 6/,682
+6115,"Yuba, CA",8,CA30,280,...,    Nonfarm proprietors employment,5286
+6115,"Yuba, CA",8,CA30,290,...,Average earnings per job (dollars),58043
+6115,"Yuba, CA",8,CA30,300,...,  Average wages and salaries,48325
+6115,"Yuba, CA",8,CA30,310,...,  Average nonfarm proprietors' income,19008
+Note: See the included footnote file.,,,,,,,
+CA30: Economic Profile,,,,,,,
+"Last updated: November 19, 2015-- new estimates for 2014; revised estimates for 1969-2013.",,,,,,,
+Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Income Division,,,,,,,
