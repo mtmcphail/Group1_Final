@@ -1,7 +1,5 @@
 
-# Group1_Final
 
-![logo](./Images/liquor_license.jpeg)
 # Liquor Licenses and Close-Proximity Population Demographics
 
 ## Overview
@@ -87,8 +85,7 @@ Our **target or (X)** will be the percentage of the population, ```pct_of_total`
 
 ## Dashboard Presentation
 The dashboard will be built using **Tableau**. Visualizations to tell this story will include graphs, heat maps, and prediction results.
-
-*Be on the look out for our findings in the coming weeks!*
+Our Tableau analysis can be found here [Tableau Dashboard](https://public.tableau.com/profile/nazanin6981#!/vizhome/Alcohol_California/Peoplearelivingwithin14milesofalcoholoutlets?publish=yes).
 
 ## GitHub and Communication Protocol
 
