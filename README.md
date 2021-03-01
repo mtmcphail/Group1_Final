@@ -1,5 +1,5 @@
 ![logo](./Images/liquor_license.jpeg)
-# Liquor Licences and Close-Proximity Population Demographics
+# Liquor Licenses and Close-Proximity Population Demographics
 
 ## Overview
 The CDC publishes a fascinating dataset detailing the racial/ethnic percentages of persons living within **0.25 miles of an establishment with a liquor license**. Much research has been conducted to investigate the the relationship between proximity to liquor establsihments and demographics such as race and socioeconomic factors.
@@ -12,14 +12,14 @@ By layering additional demographic and socioeconomic data including income level
 * What is the racial or ethnic breakdown of populations within a quarter-mile of a liquor licensed establishment?
 * Is there a correlation between income and proximity to an alcohol outlet?
 
-Ultimately, **the goal is to build a machine learning model (using linear regression) that can predict the likelihood of a liquor outlet is within a quarter-mile of a person's home based on their race/ethnicity and location.**
+Ultimately, **the goal is to build a machine learning model (using logistic regression) that can predict the likelihood of a liquor outlet is within a quarter-mile of a person's home based on their race/ethnicity and location.**
 
 ## Data Source
 There are **4 datasets** that will be used to build this model and create visualizations:
 
 1. The first, and primary, dataset comes from [HealthData.gov](https://healthdata.gov/dataset/population-percentage-within-quarter-mile-alcohol-outlets). This file contains 2014 data for the state of California of population demographics of residents living within a quarter-mile of an alcohol establishment: ```population_pct_within_qrt_mile_alcohol.csv```
  
-1. This dataset, from the [Economic Research Service](https://www.ers.usda.gov/data-products/county-typology-codes/), provides county-level data regarding persistent poverty, metro vs non-metro status, low education status, retirement destination, as well as other descriptive, binary factors. ```2015CountyTypologyCodes.csv```
+1. This dataset, from the [HealthData.gov](https://healthdata.gov/dataset/population-percentage-within-quarter-mile-alcohol-outlets), provides county-level data regarding persistent poverty, metro vs non-metro status, low education status, retirement destination, as well as other descriptive, binary factors. ```2015CountyTypologyCodes.csv```
  
 1. The file ```personal_income_2014.csv``` also comes from [Bureau of Economic Analysis](https://apps.bea.gov/regional/histdata/) details the per capita personal income by county.
 
