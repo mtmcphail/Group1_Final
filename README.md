@@ -6,4 +6,4 @@
 
 The dashboard will be built using **Tableau**. Visualizations to tell this story will include graphs, heat maps, and prediction results.
 Our Tableau analysis can be found here
-[Tableau Dashboard](https://public.tableau.com/profile/nazanin6981#!/vizhome/Liqureoutlets_California/Dashboard14?publish=yes).
+[Tableau Dashboard](https://public.tableau.com/profile/nazanin6981#!/vizhome/Liqureoutlets_California/LiquorLicensesandClose-ProximityPopulationDemographics?publish=yes).
