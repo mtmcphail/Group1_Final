@@ -2,6 +2,7 @@
 # Liquor Licenses and Close-Proximity Population Demographics
 
 ##Presentation
+
 ### [Click Here to access Google Sheets presentation](https://docs.google.com/presentation/d/16BIqBy9ejezUTJsVLJnAEyl2HWQhgAKd4O99gPBHUYY/edit#slide=id.p).
 
 ## Overview
@@ -50,7 +51,7 @@ The following technologies, modules, and functions within Python will be used to
 * preprocessing: ```StandardScaler```
 * preprocessing: ```OneHotEncoder```
 
-Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **Linear Regression model** will be employed as the predicted outcome of this model will be in the form of a continuous dependent variable.
+Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **Logistic Regression model** will be employed as the predicted outcome of this model will be in the form of a categorical dependent variable.
 
 The following imports will be called:
 
@@ -63,10 +64,8 @@ Our input factors (y) will include:
 * ```race_eth_code```
 * ```race_eth_name```
 * ```county_name```
-* ```county_fips_id```
 * ```region_name```
 * ```region_code```
-* ```license_type```
 * ```num_people_qrt```
 * ```tot_people```
 * ```pct_of_total```
@@ -88,7 +87,7 @@ Our **target or (X)** will be the percentage of the population, ```pct_of_total`
 ## Dashboard Presentation
 The dashboard will be built using **Tableau**. Visualizations to tell this story will include graphs, heat maps, and prediction results.
 
-*Be on the look out for our findings in the coming weeks!*
+*Link to Dashboard can be found in presentation link above.*
 
 ## GitHub and Communication Protocol
 
@@ -100,17 +99,23 @@ In order to accomplish this massive task, this team will be utilizing GitHub to 
 * ```data_cleaning``` 
 * ```machine_learning``` 
 
-Each team member has a role to play and for **Week 2**  they are:
+An additional branch was employed as our tasks change throughout this process:
 
-* Circle Role (```data_analysis```): Maggie McPhail 
-* Square Role (```machine_learning```): Jackie Chitsanga
-* Triangle Role (```data_cleaning```) Devin Hollister
-* X Role (```dashboard```): Nazanin Tavakoli
+* ```final_code```: for code peer reviews 
 
-Each week, our team will have a minimum of 4 commits per member.  For **Week 2**:
-![commits](./Images/week2_commits.png)
+Each team member has a role to play and for **Week 3**  they are:
+
+* Circle Role (```dashboard```): Nazanin Tavakoli 
+* Square Role (```final_code```): Jackie Chitsanga
+* Triangle Role (```data_analysis```): Maggie McPhail
+* X Role (```machine_learning```): Devin Hollister
+
+All Team members are responsibile for continued improvement of machine learning and data cleaning.
+
+Each week, our team will have a minimum of 4 commits per member.  For **Week 3**:
+![commits](./Images/week3_commits.png)
 
 #### Communication Protocol
 In addition to utilizing **GitHub** and our **Slack** channel, this team will meet weekly during and/or before normal class times on **Monday** and **Wednesday** evenings as well as via **Zoom** as needed.
 
-Once a team member is ready with their portion of the assignment, the owner of the repository will be notified, create a compare and pull request to merge to the main and resolve any resulting conflicts. The rest of the team will be notified via Slack when to pull the updated main branch.
+The code continues to be in a constant state of improvement and refactoring to make it more efficient; as such the code still lives in the branches.  The not quite ready-for-prime-time copies are located in the ```final_code``` branch to allow for peer review and additional edits until they are production ready.
