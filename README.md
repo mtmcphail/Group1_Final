@@ -1,7 +1,7 @@
 ![logo](./Images/liquor_license.jpeg)
 # Liquor Licenses and Close-Proximity Population Demographics
 
-##Presentation
+## Presentation
 
 ### [Click Here to access Google Sheets presentation](https://docs.google.com/presentation/d/16BIqBy9ejezUTJsVLJnAEyl2HWQhgAKd4O99gPBHUYY/edit#slide=id.p).
 
