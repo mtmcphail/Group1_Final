@@ -101,12 +101,12 @@ In order to accomplish this massive task, this team will be utilizing GitHub to 
 
 An additional branch was employed as our tasks change throughout this process:
 
-* ```final_code```: for code peer reviews 
+* ```peer_review```  
 
 Each team member has a role to play and for **Week 3**  they are:
 
 * Circle Role (```dashboard```): Nazanin Tavakoli 
-* Square Role (```final_code```): Jackie Chitsanga
+* Square Role (```peer_review```): Jackie Chitsanga
 * Triangle Role (```data_analysis```): Maggie McPhail
 * X Role (```machine_learning```): Devin Hollister
 
