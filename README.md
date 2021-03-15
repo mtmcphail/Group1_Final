@@ -38,7 +38,7 @@ This is done using **PostGres** and **SQL**; ERD schematic below:
 
 ![ERD](./Images/erd.png)
 
-Once the team is ready to start analyzing, the data is connected directly to a **Python Notebook** to be read in using importing ```create_engine``` from **sqlalchemy**.
+Once the team is ready to start analyzing, the data is connected directly to a **Python Notebook** to be read in using importing ```create_engine``` and ```func``` from **sqlalchemy** and ```psycopg2```
 
 At which point we are ready to clean, transform, and preprocess our dataset. That's where the fun begins!
 
@@ -46,46 +46,56 @@ At which point we are ready to clean, transform, and preprocess our dataset. Tha
 The following technologies, modules, and functions within Python will be used to read in, prepare and transform the data:
 
 * pandas
-* sklearn
-* model_selection: ```train_test_split```
-* preprocessing: ```StandardScaler```
-* preprocessing: ```OneHotEncoder```
+* numpy
+* pathlib: ```Path```
+* matplotlib.pyplot
+* collections: ```Counter```
+* sklearn.metrics: 
+	* ```balanced_accuracy_score```
+	* ```confusion_matrix```
+	*  ```mean_squared_error```
+* sklearn.model_selection: ```train_test_split```
+* sklearn.linear_model: ```LinearRegression```
+* sklearn.preprocessing: 
+	* ```StandardScaler```
+	* ```OneHotEncoder```
+	*  ```PolynomialFeatures```
+* imblearn.metrics: ```classification_report_imbalanced```
 
-Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **Logistic Regression model** will be employed as the predicted outcome of this model will be in the form of a categorical dependent variable.
 
-The following imports will be called:
-
-* sklearn.linear_model: LinearRegression
-* sklearn.metrics: balanced_accuracy_score
-* sklearn.metrics: mean_squared_error
+Once the dataset is cleaned and transformed, we can start compiling, training, and evaluating the model. A **Linear Regression model** will be employed as the predicted outcome of this model will be in the form of a categorical dependent variable.
 
 Our input factors (y) will include:
 
-* ```race_eth_code```
-* ```race_eth_name```
-* ```county_name```
-* ```region_name```
-* ```region_code```
-* ```num_people_qrt```
-* ```tot_people```
-* ```pct_of_total```
-* ```pi_per_cap_income```
-* ```pi_total_income```
-* ```pi_popultaion```
-* ```unemp_2014```
-* ```unemp_median_house_price```
-* ```typ_metro_status```
-* ```typ_low_ed```
-* ```typ_low_employment```
-* ```typ_Pop_loss_2010```
-* ```typ_retirement```
-* ```typ_poverty```
-* ```typ_child```
+ 
+* ```county_name``` 
+* ```geotype```                        
+* ```region_name```   
+* ```num_people_qrt```                 
+* ```tot_people```                     
+* ```per_capita_income```              
+* ```total_income```                   
+* ```population```                     
+* ```unemp_2014```                     
+* ```median_house_price```             
+* ```median_house_pct```               
+* ```metro_status```                   
+* ```economic_type_label```            
+* ```low_education_2015```             
+* ```low_employment_cnty```            
+* ```pop_loss_2010```                 
+* ```retirement_dest_2015```
+* ```persistent_poverty_2013```       
+* ```persistent_child_poverty_2013```  
+* ```race_eth_updt```                                
 
-Our **target or (X)** will be the percentage of the population, ```pct_of_total```, within a quarter mile of the alcohol outlet.
+Our **target or (X)** will be the percentage of the population, ```probablity```, within a quarter mile of the alcohol outlet.
 
 ## Dashboard Presentation
 The dashboard will be built using **Tableau**. Visualizations to tell this story will include graphs, heat maps, and prediction results.
+
+Our Tableau analysis can be found here: [Tableau Dashboard
+](https://public.tableau.com/profile/nazanin6981#!/vizhome/Alcohol_CA_Final/LiquorLicensesandClose-ProximityPopulationDemographics?publish=yes)
 
 *Link to Dashboard can be found in presentation link above.*
 
@@ -117,5 +127,3 @@ Each week, our team will have a minimum of 4 commits per member.  For **Week 3**
 
 #### Communication Protocol
 In addition to utilizing **GitHub** and our **Slack** channel, this team will meet weekly during and/or before normal class times on **Monday** and **Wednesday** evenings as well as via **Zoom** as needed.
-
-The code continues to be in a constant state of improvement and refactoring to make it more efficient; as such the code still lives in the branches.  The not quite ready-for-prime-time copies are located in the ```final_code``` branch to allow for peer review and additional edits until they are production ready.
