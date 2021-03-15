@@ -6,7 +6,7 @@
 ### [Click Here to access Google Sheets presentation](https://docs.google.com/presentation/d/16BIqBy9ejezUTJsVLJnAEyl2HWQhgAKd4O99gPBHUYY/edit#slide=id.p).
 
 ## Overview
-The CDC publishes a fascinating dataset detailing the racial/ethnic percentages of persons living within **0.25 miles of an establishment with a liquor license**. Much research has been conducted to investigate the the relationship between proximity to liquor establsihments and demographics such as race and socioeconomic factors.
+The CDC publishes a fascinating dataset detailing the racial/ethnic percentages of persons living within **0.25 miles of an establishment with a liquor license**. Much research has been conducted to investigate the relationship between proximity to liquor establsihments and demographics such as race and socioeconomic factors.
 
 By layering additional demographic and socioeconomic data including income levels, poverty, unemployment, housing prices indicators, we can get a better picture of phenomenons that occur such outlets.
 
@@ -16,7 +16,7 @@ By layering additional demographic and socioeconomic data including income level
 * What is the racial or ethnic breakdown of populations within a quarter-mile of a liquor licensed establishment?
 * Is there a correlation between income and proximity to an alcohol outlet?
 
-Ultimately, **the goal is to build a machine learning model (using logistic regression) that can predict the likelihood of a liquor outlet is within a quarter-mile of a person's home based on their race/ethnicity and location.**
+Ultimately, **the goal is to build a machine learning model (using logistic regression) that can predict the likelihood of a liquor outlet within a quarter-mile of a person's home based on their race/ethnicity and location.**
 
 ## Data Source
 There are **4 datasets** that will be used to build this model and create visualizations:
