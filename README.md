@@ -16,7 +16,7 @@ By layering additional demographic and socioeconomic data including income level
 * What is the racial or ethnic breakdown of populations within a quarter-mile of a liquor licensed establishment?
 * Is there a correlation between income and proximity to an alcohol outlet?
 
-Ultimately, **the goal is to build a machine learning model (using logistic regression) that can predict the likelihood of a liquor outlet within a quarter-mile of a person's home based on their race/ethnicity and location.**
+Ultimately, **the goal is to build a machine learning model that can predict the likelihood of a liquor outlet within a quarter-mile of a person's home based on their race/ethnicity and location.**
 
 ## Data Source
 There are **4 datasets** that will be used to build this model and create visualizations:
